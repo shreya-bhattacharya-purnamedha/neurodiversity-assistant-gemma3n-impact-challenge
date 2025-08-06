@@ -1,0 +1,1 @@
+- creating vanilla nextjs webapp easily -> `npx create-next-app@latest neuro-assistant-chatbot --typescript --eslint --tailwind --src-dir --app --import-alias "@/*"`
