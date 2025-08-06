@@ -5,7 +5,6 @@
     "Self_Regulation_Category": "Breathing Technique",
     "Description": "A simple technique to calm the nervous system by controlling your breath.",
     "Instructions": "1. Inhale for 4s. <br>2. Hold for 4s. <br>3. Exhale for 4s. <br>4. Hold for 4s. Repeat 5-10 times.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "5-4-3-2-1 Grounding",
@@ -13,7 +12,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "Engages all five senses to bring your focus back to the present moment.",
     "Instructions": "Name 5 things you see, 4 things you feel, 3 things you hear, 2 things you smell, 1 thing you taste.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 5-Minute Rule",
@@ -21,7 +19,6 @@
     "Self_Regulation_Category": "Behavioral Activation",
     "Description": "A technique to overcome procrastination by committing to just five minutes of a task.",
     "Instructions": "Set a timer for 5 minutes and start the task. You can stop when it rings, but you'll often keep going.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Chunking",
@@ -29,7 +26,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Breaking a large, overwhelming project down into small, manageable steps.",
     "Instructions": "List all the steps for your project. Focus on completing only the first, smallest step.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "\"I Feel\" Statements",
@@ -37,7 +33,6 @@
     "Self_Regulation_Category": "Communication",
     "Description": "A non-confrontational way to express your feelings during a conflict.",
     "Instructions": "Structure your sentence as: \"I feel [emotion] when [behavior] because [reason].\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Behavioral Activation",
@@ -45,7 +40,6 @@
     "Self_Regulation_Category": "Mood Regulation",
     "Description": "Engaging in a small, positive, or rewarding activity to counter low mood and inertia.",
     "Instructions": "Choose one small activity you usually enjoy (e.g., listen to a song, walk outside) and do it.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Brain Dump",
@@ -53,7 +47,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Writing down all thoughts, tasks, and worries to clear your mind.",
     "Instructions": "Take a piece of paper and write down everything on your mind for 10 minutes without judgment.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Progressive Muscle Relaxation",
@@ -61,7 +54,6 @@
     "Self_Regulation_Category": "Body Scan",
     "Description": "A technique to reduce tension by tensing and then relaxing different muscle groups in the body.",
     "Instructions": "Systematically tense one muscle group (e.g., fists) for 5s, then completely relax for 10s. Move to the next group.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mindful Listening",
@@ -69,7 +61,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "Focusing completely on sounds around you or on a specific piece of music to enhance present moment awareness.",
     "Instructions": "Close your eyes and pay attention to all sounds, without judgment. Alternatively, listen to a song and notice every instrument and nuance.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The Pomodoro Technique",
@@ -77,7 +68,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "A time management method that uses a timer to break down work into focused intervals, traditionally 25 minutes in length, separated by short breaks.",
     "Instructions": "1. Set a timer for 25 min and work on a single task. 2. When the timer rings, take a 5 min break. 3. After 4 \"pomodoros,\" take a longer 15-30 min break.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Gratitude Journaling",
@@ -85,7 +75,6 @@
     "Self_Regulation_Category": "Mood Regulation",
     "Description": "Regularly writing down things you are grateful for to foster a positive outlook.",
     "Instructions": "Write down 3-5 things you are genuinely grateful for each day. Be specific about why.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visualization",
@@ -93,7 +82,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Creating mental images to rehearse desired outcomes or calm the mind.",
     "Instructions": "Close your eyes and vividly imagine a peaceful scene, or successfully completing a challenging task, focusing on all sensory details.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Temperature Change",
@@ -101,7 +89,6 @@
     "Self_Regulation_Category": "Physiological Regulation",
     "Description": "Using cold or heat to quickly shift physiological states and interrupt intense emotions.",
     "Instructions": "Splash cold water on your face, hold an ice pack, or drink a warm beverage slowly.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Affirmations",
@@ -109,7 +96,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Positive statements repeated to challenge negative thoughts and promote self-belief.",
     "Instructions": "Choose a positive statement (e.g., \"I am capable and strong\") and repeat it to yourself daily, especially when facing challenges.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled Worry Time",
@@ -117,7 +103,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Designating a specific, limited time each day to address worries, rather than letting them intrude throughout the day.",
     "Instructions": "Choose a 15-minute slot each day. If a worry arises outside this time, make a note and defer it to your \"worry time.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory soothing kit",
@@ -125,7 +110,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Assembling a collection of items that engage your senses in a comforting way to help regulate intense emotions.",
     "Instructions": "Prepare a small kit with items like a scented oil, a smooth stone, a soft fabric, or a comforting photo. Use when feeling overwhelmed.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Body Scan Meditation",
@@ -133,7 +117,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "A practice of bringing awareness to different parts of the body to notice sensations and release tension.",
     "Instructions": "Lie down and systematically bring your attention to each part of your body, noticing any sensations without judgment.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Square Breathing",
@@ -141,7 +124,6 @@
     "Self_Regulation_Category": "Breathing Technique",
     "Description": "Similar to box breathing, this technique involves inhaling, holding, exhaling, and holding for equal counts to regulate the nervous system.",
     "Instructions": "1. Inhale slowly for 4 counts. 2. Hold your breath for 4 counts. 3. Exhale slowly for 4 counts. 4. Hold your breath for 4 counts. Repeat several cycles.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Thought Challenging",
@@ -149,7 +131,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Identifying and evaluating unhelpful or irrational thoughts by looking for evidence for and against them.",
     "Instructions": "When you have a negative thought, ask: \"What's the evidence for this thought? What's the evidence against it? Is there another way to look at this?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Anchoring",
@@ -157,7 +138,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Creating a strong association between a specific physical touch or gesture and a positive emotional state.",
     "Instructions": "Recall a strong positive memory. As you feel the emotion, squeeze your thumb and forefinger together. Repeat several times. Later, use the squeeze to evoke the feeling.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Urge Surfing\" Technique",
@@ -165,7 +145,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "A mindfulness-based strategy for riding out intense urges or emotions without acting on them.",
     "Instructions": "When an urge arises, notice it like a wave \u2013 observe its beginning, peak, and eventual decrease, without judgment or action.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Habit Stacking",
@@ -173,7 +152,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Attaching a new desired habit to an existing, established habit to make it easier to remember and perform.",
     "Instructions": "Identify an existing daily habit (e.g., brushing teeth). After it, immediately perform your new desired habit (e.g., 2 minutes of stretching).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Time Blocking",
@@ -181,7 +159,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Scheduling specific blocks of time for certain tasks or activities in your calendar.",
     "Instructions": "Allocate specific time slots in your daily or weekly calendar for focused work, breaks, exercise, or other important activities.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Single-Tasking",
@@ -189,7 +166,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Focusing on one task at a time, rather than multitasking, to improve concentration and reduce errors.",
     "Instructions": "Close all unnecessary tabs and distractions. Dedicate your full attention to one task until it's complete or you take a planned break.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Affirmative Journaling",
@@ -197,7 +173,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Writing about positive experiences, personal strengths, and successes to reinforce self-efficacy and positive beliefs.",
     "Instructions": "Write about a recent success, a personal strength you utilized, or a positive experience, focusing on the details and your feelings.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Self-Compassion Break",
@@ -205,7 +180,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "A quick practice to offer yourself kindness and understanding during moments of difficulty or suffering.",
     "Instructions": "1. Notice suffering: \"This is a moment of suffering.\" 2. Common humanity: \"Suffering is a part of life.\" 3. Self-kindness: Place hand on heart, \"May I be kind to myself.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Expressive Writing",
@@ -213,7 +187,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Writing freely about thoughts and feelings related to a stressful or emotional event to process and gain perspective.",
     "Instructions": "Write continuously for 15-20 minutes about a challenging experience or your deepest thoughts and feelings without worrying about grammar or coherence.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The STOP Skill",
@@ -221,7 +194,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "A DBT (Dialectical Behavior Therapy) skill to create a pause before reacting impulsively to intense emotions.",
     "Instructions": "Stop what you're doing. Take a step back. Observe your thoughts, feelings, and sensations. Proceed mindfully.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mindful Eating",
@@ -229,7 +201,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "Paying full attention to the experience of eating, including the taste, texture, and smell of food.",
     "Instructions": "Eat slowly, savoring each bite. Notice the colors, aromas, and textures. Pay attention to your body's hunger and fullness cues.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Active Listening",
@@ -237,7 +208,6 @@
     "Self_Regulation_Category": "Communication",
     "Description": "Fully concentrating on what is being said rather than just passively hearing the message.",
     "Instructions": "Give the speaker your full attention, make eye contact, nod occasionally, and summarize what you heard to confirm understanding.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Reframing",
@@ -245,7 +215,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Changing the way you look at a situation, thought, or belief to find a more positive or constructive interpretation.",
     "Instructions": "When faced with a negative situation, try to find an alternative, more positive or neutral way of viewing it.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mirror Work",
@@ -253,7 +222,6 @@
     "Self_Regulation_Category": "Self-Esteem",
     "Description": "Standing in front of a mirror and saying positive affirmations to yourself to build self-love and confidence.",
     "Instructions": "Look into your eyes in a mirror and say empowering affirmations such as, \"I love and accept myself,\" or \"I am worthy.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Nature Immersion",
@@ -261,7 +229,6 @@
     "Self_Regulation_Category": "Mood Regulation",
     "Description": "Spending time in natural environments to reduce stress and improve well-being.",
     "Instructions": "Go for a walk in a park, sit by a lake, or simply observe nature from a window. Focus on the sights, sounds, and smells.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Values Clarification",
@@ -269,7 +236,6 @@
     "Self_Regulation_Category": "Decision Making",
     "Description": "Identifying and prioritizing your core values to guide your choices and actions.",
     "Instructions": "List your top 3-5 core values (e.g., honesty, creativity, family). Use them as a compass when making important decisions.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 10-Minute Declutter",
@@ -277,7 +243,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Quickly tidying a small area to reduce mental clutter and increase a sense of control.",
     "Instructions": "Set a timer for 10 minutes and quickly tidy up one small area \u2013 your desk, a drawer, or a corner of a room.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Positive Self-Talk",
@@ -285,7 +250,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Replacing negative internal dialogue with encouraging and supportive thoughts.",
     "Instructions": "Become aware of your inner critic. When you notice negative self-talk, consciously replace it with a positive, realistic alternative.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Gentle Stretching",
@@ -293,7 +257,6 @@
     "Self_Regulation_Category": "Physical Regulation",
     "Description": "Performing light, easy stretches to release physical tension and improve flexibility.",
     "Instructions": "Do a few gentle stretches for your neck, shoulders, or back. Hold each stretch for 20-30 seconds, breathing deeply.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Compassionate Reappraisal",
@@ -301,7 +264,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Reinterpreting a stressful situation or thought from a place of kindness and understanding towards oneself.",
     "Instructions": "Instead of self-criticism, imagine how a compassionate friend would view your situation or thoughts. Offer yourself the same kindness.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Do Nothing\" Practice",
@@ -309,7 +271,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "Deliberately sitting or lying down and doing absolutely nothing for a short period, just being present.",
     "Instructions": "Find a quiet spot, set a timer, and simply sit or lie without engaging in any activity, thoughts, or distractions.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Boundary Setting",
@@ -317,7 +278,6 @@
     "Self_Regulation_Category": "Communication",
     "Description": "Clearly defining your limits and communicating them respectfully to others to protect your time, energy, and well-being.",
     "Instructions": "Identify your personal limits. Practice saying \"no\" politely when something oversteps your boundaries, or clearly state what you need.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mood Tracking",
@@ -325,7 +285,6 @@
     "Self_Regulation_Category": "Mood Regulation",
     "Description": "Regularly noting your mood to identify patterns, triggers, and the effectiveness of coping strategies.",
     "Instructions": "Use a journal or an app to record your mood at different times of the day, along with any significant events or feelings.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Journaling for Insights",
@@ -333,7 +292,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Writing freely to explore thoughts, feelings, and experiences, leading to self-discovery and problem-solving.",
     "Instructions": "Dedicate time to write about a specific problem, a recurring feeling, or a challenging situation to gain clarity and new perspectives.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Cues",
@@ -341,7 +299,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Placing visual reminders in your environment to prompt desired behaviors or habits.",
     "Instructions": "Leave your running shoes by the door, put your vitamins next to your toothbrush, or place a sticky note with a reminder on your monitor.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"One-Minute Rule\"",
@@ -349,7 +306,6 @@
     "Self_Regulation_Category": "Behavioral Activation",
     "Description": "Performing any task that takes less than one minute immediately, to prevent procrastination and build momentum.",
     "Instructions": "If a task can be done in under 60 seconds (e.g., put away a dish, reply to a quick email), do it right away.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Input Adjustment",
@@ -357,7 +313,6 @@
     "Self_Regulation_Category": "Physiological Regulation",
     "Description": "Modifying your environment's sensory input to create a more calming or stimulating atmosphere.",
     "Instructions": "Dim lights, play calming music, or use earplugs to reduce overstimulation. Alternatively, open a window or play energizing music.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Skill Building",
@@ -365,7 +320,6 @@
     "Self_Regulation_Category": "Self-Efficacy",
     "Description": "Learning and practicing new skills to increase competence and confidence in handling challenges.",
     "Instructions": "Identify a small, achievable skill you want to learn (e.g., basic coding, a new recipe) and dedicate regular time to practice it.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Reflective Questioning",
@@ -373,7 +327,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Asking yourself open-ended questions to encourage deeper thinking and self-awareness.",
     "Instructions": "At the end of the day, ask yourself: \"What went well today? What was challenging? What did I learn? What could I do differently tomorrow?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The Rain Practice",
@@ -381,7 +334,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "A quick grounding exercise using an acronym to mindfully observe and accept difficult thoughts and feelings.",
     "Instructions": "Recognize the feeling. Allow it to be there. Investigate with kindness. Non-identification (don't get lost in it).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Cognitive Diffusion",
@@ -389,7 +341,6 @@
     "Self_Regulation_Category": "Cognitive Restructuring",
     "Description": "Creating distance from your thoughts, viewing them as mental events rather than absolute truths.",
     "Instructions": "Observe thoughts as if they are clouds passing by or words on a screen. Say \"I'm having the thought that...\" before a negative thought.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Why?\" Chain",
@@ -397,7 +348,6 @@
     "Self_Regulation_Category": "Problem-Solving",
     "Description": "Asking \"why?\" repeatedly to get to the root cause of a problem or feeling.",
     "Instructions": "Start with a problem, then ask \"Why is this happening?\" for each answer until you uncover the core issue.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Guided Imagery",
@@ -405,7 +355,6 @@
     "Self_Regulation_Category": "Relaxation",
     "Description": "Using verbal cues to help you visualize a calming place or scenario to reduce stress.",
     "Instructions": "Listen to a guided meditation or a recording that describes a peaceful scene, engaging all your senses in the visualization.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mini-Break Movement",
@@ -413,7 +362,6 @@
     "Self_Regulation_Category": "Physical Regulation",
     "Description": "Incorporating short bursts of physical activity throughout the day to re-energize and reduce sedentary time.",
     "Instructions": "Every hour, stand up, stretch, walk a few steps, or do a few jumping jacks for 1-2 minutes.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Problem-Solving Steps",
@@ -421,7 +369,6 @@
     "Self_Regulation_Category": "Decision Making",
     "Description": "A structured approach to identifying, analyzing, and resolving problems systematically.",
     "Instructions": "1. Define the problem. 2. Brainstorm solutions. 3. Evaluate options. 4. Choose the best. 5. Implement. 6. Review.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mindful Walking",
@@ -429,7 +376,6 @@
     "Self_Regulation_Category": "Mindfulness",
     "Description": "Paying attention to the physical sensations of walking and the environment around you.",
     "Instructions": "As you walk, notice the feeling of your feet on the ground, the movement of your legs, and the sights and sounds around you.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Worst-Case Scenario\"",
@@ -437,7 +383,6 @@
     "Self_Regulation_Category": "Anxiety Management",
     "Description": "Deliberately thinking through your worst fear to diminish its power and create coping plans.",
     "Instructions": "Identify your biggest fear related to a situation. Play out the worst possible outcome, then brainstorm how you would cope if it happened.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Energy Audit",
@@ -445,7 +390,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Assessing how different activities impact your energy levels throughout the day.",
     "Instructions": "Over a day or week, note down activities and how energized or drained you feel afterward to understand your energy patterns.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Digital Detox",
@@ -453,7 +397,6 @@
     "Self_Regulation_Category": "Lifestyle Adjustment",
     "Description": "Taking a planned break from digital devices and social media to reduce overstimulation and improve focus.",
     "Instructions": "Set specific times or days where you completely disconnect from non-essential digital devices and engage in other activities.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Acceptance",
@@ -461,7 +404,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Acknowledging and allowing difficult emotions or situations to exist without resistance or judgment.",
     "Instructions": "Instead of fighting a difficult feeling, acknowledge its presence without trying to change it immediately. \"I notice I'm feeling angry right now.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Rule of 3\"",
@@ -469,7 +411,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Focusing on completing only the top three most important tasks for the day.",
     "Instructions": "At the start of your day, identify the 3 most crucial tasks you need to accomplish and prioritize them above all else.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Belly Breathing",
@@ -477,7 +418,6 @@
     "Self_Regulation_Category": "Breathing Technique",
     "Description": "Deep, diaphragmatic breathing that engages the diaphragm, promoting relaxation and reducing stress.",
     "Instructions": "Place one hand on your chest and one on your belly. Inhale deeply through your nose, feeling your belly rise. Exhale slowly through your mouth.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Expressing Needs",
@@ -485,7 +425,6 @@
     "Self_Regulation_Category": "Communication",
     "Description": "Clearly and assertively communicating your wants, needs, and boundaries to others.",
     "Instructions": "Use \"I\" statements to articulate what you need or want in a situation without blaming or demanding.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Cognitive Defusion from Urges",
@@ -493,7 +432,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Detaching from intense cravings or impulses by observing them rather than acting on them.",
     "Instructions": "When an urge arises, label it as \"an urge\" and notice the physical sensations, without engaging in the desired behavior.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Value-Driven Action",
@@ -501,7 +439,6 @@
     "Self_Regulation_Category": "Behavioral Activation",
     "Description": "Engaging in activities that align with your core values, even when motivation is low.",
     "Instructions": "Identify a value (e.g., connection). Choose a small action that reflects it (e.g., call a friend), and do it, regardless of how you feel.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Delete, Delegate, Do\" Rule",
@@ -509,7 +446,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "A quick decision-making process for managing your to-do list efficiently.",
     "Instructions": "For each task: Can it be Deleted? Can it be Delegated? If not, Do it now or schedule it.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "S.M.A.R.T. Goals",
@@ -517,7 +453,6 @@
     "Self_Regulation_Category": "Goal Setting",
     "Description": "A framework for setting clear and achievable goals.",
     "Instructions": "Ensure your goals are Specific, Measurable, Achievable, Relevant, and Time-bound.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Habit Reversal Training",
@@ -525,7 +460,6 @@
     "Self_Regulation_Category": "Behavioral Regulation",
     "Description": "A technique for identifying and replacing unwanted repetitive behaviors with a competing response.",
     "Instructions": "Identify the specific behavior and its triggers. Choose a less noticeable, non-harmful competing behavior to perform instead.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Okay\" Hand Signal",
@@ -533,7 +467,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "A discreet signal to a trusted person when you need support or a break in a social situation.",
     "Instructions": "Agree with a friend or family member on a subtle hand signal (e.g., touching your ear) that means \"I need a moment\" or \"Please help me disengage.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Body Doubling\" Hack",
@@ -541,7 +474,6 @@
     "Self_Regulation_Category": "Productivity/Focus",
     "Description": "Working or performing tasks alongside another person (virtually or in-person) to increase focus and motivation, even if they're doing something different.",
     "Instructions": "Find a friend, colleague, or an online \"body doubling\" stream/app. Simply exist in the same space (physical or virtual) while you both work on separate tasks.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Stimming Kits",
@@ -549,7 +481,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Curating a personal collection of items that provide comforting or regulating sensory input (tactile, visual, auditory, olfactory).",
     "Instructions": "Gather items like fidget toys, textured fabrics, smooth stones, noise-canceling headphones, a favorite scent, or a small visual stim toy. Use them when feeling overwhelmed or understimulated.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Hyperfocus \"Leveraging\"",
@@ -557,7 +488,6 @@
     "Self_Regulation_Category": "Productivity/Focus",
     "Description": "Deliberately directing periods of intense, concentrated focus towards desired tasks, rather than fighting or being derailed by them.",
     "Instructions": "When you feel hyperfocus \"kicking in,\" quickly direct it towards a task you need to complete. Remove all other distractions to maximize the period of intense concentration.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Pre-computation\" Hack",
@@ -565,7 +495,6 @@
     "Self_Regulation_Category": "Executive Function",
     "Description": "Mentally or physically planning out all the tiny, often overlooked steps of a task before starting, to avoid getting stuck or overwhelmed.",
     "Instructions": "Before a complex task (e.g., cooking a meal, going out), mentally walk through every single micro-step and identify potential sticking points or forgotten items. Write them down if helpful.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Checklists (for everything)",
@@ -573,7 +502,6 @@
     "Self_Regulation_Category": "Executive Function",
     "Description": "Using highly visual, often simplified, checklists for routines or tasks to externalize memory and reduce mental load.",
     "Instructions": "Create short, clear, visual checklists (written, drawn, or digital) for daily routines (e.g., morning routine, leaving the house, going to bed). Check off each step as you go.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Nope, Not Today Boundaries",
@@ -581,7 +509,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Communication",
     "Description": "Firmly but politely declining commitments or social interactions when mental/emotional capacity is low, without over-explaining.",
     "Instructions": "When feeling drained or overstimulated, practice saying a simple, clear \"No, thank you, I won't be able to make it today,\" without feeling obligated to provide extensive reasons.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Batching by Energy Level",
@@ -589,7 +516,6 @@
     "Self_Regulation_Category": "Productivity",
     "Description": "Grouping similar types of tasks or tasks requiring similar energy levels together, rather than mixing them throughout the day.",
     "Instructions": "Categorize your to-do list by energy demand (e.g., \"low effort admin,\" \"high focus creative,\" \"physical tasks\") and tackle them in blocks according to your fluctuating energy.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Environmental \"Sensory Zoning\"",
@@ -597,7 +523,6 @@
     "Self_Regulation_Category": "Sensory Regulation",
     "Description": "Deliberately designing different areas of your home or workspace to cater to specific sensory needs (e.g., quiet zone, stim zone, bright zone).",
     "Instructions": "Designate a quiet corner with soft lighting and comfortable seating, a brighter area for focused work, or a space where you can safely engage in repetitive movements without disturbing others.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Autistic Crayon Box\" Analogy",
@@ -605,7 +530,6 @@
     "Self_Regulation_Category": "Communication/Self-Understanding",
     "Description": "Understanding that social interactions might require selecting a specific \"social script\" or \"tool\" rather than relying on intuitive flow.",
     "Instructions": "Before a social interaction, mentally identify what kind of \"script\" or \"tool\" might be needed (e.g., active listening, asking specific questions, focusing on a shared interest).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Shutdown/Meltown Recovery Plan",
@@ -613,7 +537,6 @@
     "Self_Regulation_Category": "Emotional Regulation",
     "Description": "Having a pre-planned set of steps to take when approaching or experiencing sensory overload, emotional dysregulation, or burnout.",
     "Instructions": "Identify your personal shutdown/meltdown triggers and early warning signs. Create a step-by-step plan: e.g., go to quiet space, use sensory kit, deep breathing, no demands for X time.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Transition Object\"",
@@ -621,7 +544,6 @@
     "Self_Regulation_Category": "Transition Management",
     "Description": "Using a specific, comforting object or routine to help bridge the gap between tasks or environments, reducing transition difficulty.",
     "Instructions": "Carry a specific fidget toy, listen to a particular song, or perform a small, consistent ritual (e.g., tap your fingers 3 times) when moving from one activity/place to another.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Info Dumping (with consent)",
@@ -629,7 +551,6 @@
     "Self_Regulation_Category": "Communication/Cognitive Mgmt",
     "Description": "Expressing a highly specialized interest or topic in detail to a willing listener as a way to regulate and share passion.",
     "Instructions": "Find a trusted friend or online community who enjoys or tolerates \"info dumping.\" Ask \"Is it okay if I info-dump about X for a few minutes?\" and share your passion.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task \"Gamification\"",
@@ -637,7 +558,6 @@
     "Self_Regulation_Category": "Motivation/Productivity",
     "Description": "Turning mundane or difficult tasks into a game or challenge to make them more engaging and achievable.",
     "Instructions": "Assign points to chores, race against a timer, or create a reward system (e.g., \"If I finish this, I get 15 min of special interest time\").",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Masking Break Scheduling",
@@ -645,7 +565,6 @@
     "Self_Regulation_Category": "Energy Management/Well-being",
     "Description": "Deliberately planning short periods throughout the day to unmask and relax social performance.",
     "Instructions": "Identify times or places where you can safely be yourself (e.g., in your car, a private room). Schedule short breaks to drop the mask and recharge.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Fidget Tool Kit\" (Everywhere)",
@@ -653,7 +572,6 @@
     "Self_Regulation_Category": "Sensory Regulation",
     "Description": "Having a variety of fidget tools strategically placed in different common locations (desk, bag, car) for immediate access.",
     "Instructions": "Keep a different type of fidget (e.g., tangle, smooth stone, ring) in your pocket, on your desk, in your car, and in your bag for easy, immediate access when needed.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Diet Planning",
@@ -661,7 +579,6 @@
     "Self_Regulation_Category": "Sensory Regulation",
     "Description": "Proactively incorporating a variety of sensory inputs throughout the day to maintain optimal regulation, not just in crisis.",
     "Instructions": "Plan your day to include both calming (e.g., weighted blanket, quiet time) and stimulating (e.g., movement breaks, bright colors) sensory activities.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Spoons Metaphor Application",
@@ -669,7 +586,6 @@
     "Self_Regulation_Category": "Energy Management/Self-Compassion",
     "Description": "Using the \"Spoon Theory\" to realistically assess daily energy levels and set achievable limits without guilt.",
     "Instructions": "At the start of the day, assess how many \"spoons\" (units of energy) you have. Allocate them to tasks, understanding that certain activities cost more spoons and you have a finite supply.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Anchor Clothes",
@@ -677,7 +593,6 @@
     "Self_Regulation_Category": "Sensory Comfort/Routine",
     "Description": "Relying on specific comfortable clothing items that provide consistent, non-distracting sensory input.",
     "Instructions": "Identify clothing items (e.g., a specific soft shirt, comfortable socks, a loose pair of pants) that feel consistently \"right\" and wear them often to reduce sensory overwhelm.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task \"Time-Blocking\" (Visual)",
@@ -685,7 +600,6 @@
     "Self_Regulation_Category": "Productivity/Executive Function",
     "Description": "Using visual cues like sticky notes or colored calendar blocks to represent dedicated time for specific tasks.",
     "Instructions": "Use a physical planner with colored markers or a digital calendar to visually block out time for tasks. Seeing the blocks helps with transitions and focus.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Parallel Play for Adults",
@@ -693,7 +607,6 @@
     "Self_Regulation_Category": "Social Connection/Low Demand",
     "Description": "Engaging in separate, individual activities alongside another person, providing social connection without direct interaction pressure.",
     "Instructions": "Suggest doing individual activities (e.g., reading, crafting, working on laptops) in the same room as a friend or partner, enjoying their presence without needing constant conversation.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Noise Masking\" Strategy",
@@ -781,7 +694,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Keeping digital tabs or physical items open as visual reminders of unfinished tasks or thoughts, acting as an external working memory.",
     "Instructions": "Instead of closing browser tabs or putting physical items away immediately, leave them \"open\" or visible as a prompt for later action or thought processing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Headphone Signals",
@@ -941,7 +853,6 @@
     "Self_Regulation_Category": "Executive Function/Transitions",
     "Description": "Setting multiple, sequential alarms to break down a larger task or transition into smaller, manageable steps.",
     "Instructions": "For a complex morning routine, set alarms for \"wake up,\" \"get out of bed,\" \"get dressed,\" \"eat breakfast,\" etc., to prompt each step.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Shows/Media",
@@ -949,7 +860,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Decompression",
     "Description": "Re-watching or re-listening to familiar, predictable media that requires low cognitive load and provides comfort.",
     "Instructions": "Have a go-to list of comfort shows, movies, or albums you've seen/heard many times. Use them for background, de-stressing, or when overstimulated.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual To-Do Boards",
@@ -957,7 +867,6 @@
     "Self_Regulation_Category": "Productivity/Executive Function",
     "Description": "Using large, highly visible boards (whiteboards, corkboards) to display tasks, schedules, or long-term goals.",
     "Instructions": "Write or stick tasks/goals on a prominent board where you can see them easily, making them tangible and harder to forget. Use different colors for categories.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Right Time' Inventory",
@@ -965,7 +874,6 @@
     "Self_Regulation_Category": "Productivity/Self-Understanding",
     "Description": "Identifying and noting down the specific times of day or conditions under which you are most productive or focused for different types of tasks.",
     "Instructions": "Keep a log: \"When am I best at creative writing? (late night). When am I best at admin? (morning).\" Schedule tasks accordingly.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Play (Adult Version)",
@@ -973,7 +881,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Stress Relief",
     "Description": "Engaging in activities that provide specific enjoyable sensory input, often reminiscent of childhood play.",
     "Instructions": "Examples: playing with kinetic sand, water beads, slime, building with LEGOs, or simply handling interesting textures.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Hyper-organization (for specific areas)",
@@ -981,7 +888,6 @@
     "Self_Regulation_Category": "Executive Function/Clarity",
     "Description": "Creating intensely organized, designated spots for frequently lost or vital items.",
     "Instructions": "Have a specific, unchangeable \"landing spot\" for keys, wallet, phone, and glasses right inside the door or on your desk.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled 'Downtime'",
@@ -989,7 +895,6 @@
     "Self_Regulation_Category": "Energy Management/Burnout Prev.",
     "Description": "Proactively blocking out empty, unstructured time in your schedule for rest and recovery, even if it feels unproductive.",
     "Instructions": "Treat \"downtime\" or \"nothing time\" as a scheduled appointment in your calendar that you cannot cancel.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Mental Filter' for Input",
@@ -997,7 +902,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "Consciously choosing what information to process or engage with, to prevent mental overwhelm.",
     "Instructions": "When faced with too much information (e.g., a noisy room, too many articles), deliberately narrow your focus to one piece of input at a time.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Specific Purpose Outfits",
@@ -1005,7 +909,6 @@
     "Self_Regulation_Category": "Routine/Sensory Comfort",
     "Description": "Having certain clothing items or \"uniforms\" for specific activities to reduce decision fatigue and provide sensory predictability.",
     "Instructions": "Designate \"work clothes,\" \"relaxing clothes,\" \"exercise clothes\" that are comfortable and require no thought, reducing morning decision load.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Mini-Break' Rule (True Break)",
@@ -1013,7 +916,6 @@
     "Self_Regulation_Category": "Productivity/Focus",
     "Description": "Ensuring short breaks are genuinely restful and not filled with other demanding activities.",
     "Instructions": "During a 5-minute break, avoid checking email or social media. Instead, look out a window, stretch, or grab water.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Auditory Processing Accommodations",
@@ -1021,7 +923,6 @@
     "Self_Regulation_Category": "Communication/Sensory",
     "Description": "Actively seeking or creating conditions that improve auditory comprehension (e.g., closed captions, asking for repetition).",
     "Instructions": "Use closed captions on all media. Don't hesitate to ask people to repeat themselves, speak slower, or rephrase when you're struggling to process.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Reset' Food/Drink",
@@ -1029,7 +930,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Emotional",
     "Description": "Having a go-to food or drink with specific sensory properties (e.g., temperature, flavor) that helps regulate or ground you.",
     "Instructions": "Keep items like cold, fizzy water; a specific sour candy; or a warm, comforting herbal tea on hand for immediate sensory input when feeling dysregulated.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Chaining (Sensory-Linked)",
@@ -1037,7 +937,6 @@
     "Self_Regulation_Category": "Productivity/Motivation",
     "Description": "Linking a less preferred task to a highly preferred sensory input or interest.",
     "Instructions": "Only allow yourself to listen to your favorite podcast while doing the dishes, or only watch your comfort show while folding laundry.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'I-Spy' Grounding Game",
@@ -1045,7 +944,6 @@
     "Self_Regulation_Category": "Mindfulness/Grounding",
     "Description": "A simple visual grounding exercise to bring focus to the present moment, especially when feeling anxious or overwhelmed.",
     "Instructions": "Name 5 things you can see, then 4 things of a specific color, then 3 things with a certain shape, continuing to narrow your focus.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-emptive Social Scripting",
@@ -1053,7 +951,6 @@
     "Self_Regulation_Category": "Social Communication/Anxiety",
     "Description": "Mentally rehearsing or having pre-written phrases for common social scenarios to reduce anxiety and communication difficulty.",
     "Instructions": "Before a phone call or meeting, think of common questions and practice brief, clear answers. Have an \"escape phrase\" ready for difficult conversations.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Energy Budget' Visual",
@@ -1061,7 +958,6 @@
     "Self_Regulation_Category": "Energy Management/Planning",
     "Description": "Using a visual representation (e.g., a bar graph, pie chart) to plan and track your limited daily energy expenditure.",
     "Instructions": "Draw a daily \"energy pie chart\" or \"battery bar\" and allocate percentages to different activities to visualize where your energy is going.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Deep Pressure Hugs (Self or Other)",
@@ -1069,7 +965,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Seeking or performing firm, sustained pressure (e.g., a tight hug, squeezing yourself) for calming sensory input.",
     "Instructions": "If comfortable, ask a trusted person for a firm, sustained hug, or wrap your arms tightly around yourself and squeeze when feeling overwhelmed.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Brain Dump' for Projects",
@@ -1077,7 +972,6 @@
     "Self_Regulation_Category": "Cognitive Management/Overwhelm",
     "Description": "A specific type of brain dump where you write down every single idea related to a project, no matter how small or chaotic.",
     "Instructions": "For a new project, dedicate 10-15 minutes to writing down every thought, task, idea, concern, or step that comes to mind, without censoring.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Auditory Boundaries (Music/Noise)",
@@ -1085,7 +979,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Focus",
     "Description": "Using specific types of music or noise to create a personal auditory \"bubble\" that blocks out distractions.",
     "Instructions": "Create playlists for different moods or tasks. Use classical music, instrumental scores, or specific genres that help you focus or relax without being distracting.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Task Paralysis' Toolkit",
@@ -1093,7 +986,6 @@
     "Self_Regulation_Category": "Task Initiation/Motivation",
     "Description": "Having a pre-planned set of very simple, immediate actions to break through task paralysis.",
     "Instructions": "When stuck, try: 1. \"The 1-minute rule.\" 2. \"Body doubling.\" 3. \"Play one song and then try.\" 4. \"Just open the document.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"No Zero Days\" Rule",
@@ -1101,7 +993,6 @@
     "Self_Regulation_Category": "Motivation/Productivity",
     "Description": "A commitment to doing at least one small, productive thing each day, no matter how minor, to build momentum and combat stagnation.",
     "Instructions": "Even if you're feeling overwhelmed, aim to do one tiny task (e.g., send one email, wash one dish, spend 5 minutes on a project) to keep moving forward.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Swaps",
@@ -1109,7 +1000,6 @@
     "Self_Regulation_Category": "Sensory Regulation",
     "Description": "Replacing a disruptive or uncomfortable sensory input with a more tolerable or preferred one.",
     "Instructions": "If a scratchy tag is bothering you, change your shirt. If loud noises are overwhelming, put on noise-canceling headphones or play calming music.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Context Switching Reduction",
@@ -1117,7 +1007,6 @@
     "Self_Regulation_Category": "Focus/Productivity",
     "Description": "Minimizing the number of times you switch between different tasks or mental contexts in a short period.",
     "Instructions": "Dedicate blocks of time to similar tasks (e.g., all emails at once, then all creative work) to avoid the mental cost of constantly refocusing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Done Is Better Than Perfect' Mantra",
@@ -1125,7 +1014,6 @@
     "Self_Regulation_Category": "Self-Compassion/Productivity",
     "Description": "Reminding yourself that completing a task adequately is often more valuable than striving for unattainable perfection.",
     "Instructions": "When perfectionism leads to procrastination, repeat \"Done is better than perfect\" to encourage completion over endless refinement.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Countdown/Progress Bars",
@@ -1133,7 +1021,6 @@
     "Self_Regulation_Category": "Motivation/Task Completion",
     "Description": "Using visual aids to show how much of a task is left, helping to maintain motivation for longer activities.",
     "Instructions": "For long tasks (e.g., studying), draw a progress bar or divide the work into visual segments to see your progress as you go.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Looping Thought' Release",
@@ -1141,7 +1028,6 @@
     "Self_Regulation_Category": "Cognitive Management",
     "Description": "A technique to interrupt repetitive, unhelpful thought loops by consciously acknowledging and then releasing them.",
     "Instructions": "When a thought loop starts, acknowledge it (\"There's that thought again\"). Then, visualize it floating away like a cloud or a leaf on a stream.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Object Integration",
@@ -1149,7 +1035,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Transition",
     "Description": "Incorporating a personally comforting object into daily routines or challenging situations.",
     "Instructions": "Bring a favorite soft scarf to meetings, keep a familiar mug at your desk, or carry a small, smooth stone in your pocket for tactile comfort.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Five Whys' for Meltdowns/Shutdowns",
@@ -1157,7 +1042,6 @@
     "Self_Regulation_Category": "Self-Understanding/Emotional Reg.",
     "Description": "Asking \"why\" repeatedly after a meltdown or shutdown to trace back and identify the underlying triggers.",
     "Instructions": "After recovering, reflect: \"Why did I get overwhelmed? (e.g., too much noise). Why was the noise too much? (e.g., already tired).\" Keep going until you hit a core cause.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-Prepared Snacks/Meals",
@@ -1165,7 +1049,6 @@
     "Self_Regulation_Category": "Energy Management/Executive Function",
     "Description": "Having easy-to-grab, acceptable snacks or simple meals ready to reduce decision fatigue and ensure consistent fueling.",
     "Instructions": "Prep grab-and-go snacks, make large batches of simple meals, or keep a stash of preferred frozen meals for low-energy days.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Soundscape Customization",
@@ -1173,7 +1056,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Environment",
     "Description": "Curating specific auditory environments to suit different tasks or moods, beyond just noise masking.",
     "Instructions": "Create playlists or use apps with sounds specifically for focus (e.g., library sounds), relaxation (e.g., gentle rain), or energy (e.g., upbeat instrumental).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Done List'",
@@ -1181,7 +1063,6 @@
     "Self_Regulation_Category": "Motivation/Self-Compassion",
     "Description": "Instead of just a to-do list, keeping a list of everything you have accomplished to boost morale and acknowledge effort.",
     "Instructions": "At the end of the day, or when feeling unaccomplished, write down all the tasks, big or small, that you actually completed.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Physical Task Cues",
@@ -1189,7 +1070,6 @@
     "Self_Regulation_Category": "Executive Function/Memory",
     "Description": "Using the physical placement of objects as a direct reminder or trigger for a task.",
     "Instructions": "Put your medications next to the kettle if you take them with morning tea, or leave your gym bag by the door to prompt your workout.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Seeking Movement",
@@ -1197,7 +1077,6 @@
     "Self_Regulation_Category": "Energy Management/Regulation",
     "Description": "Actively engaging in movements that provide desired sensory input, helping to regulate energy or focus.",
     "Instructions": "If under-stimulated, try bouncing on a yoga ball, swinging in a hammock, or doing a few spins or jumps (if safe and appropriate).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Hard Stop' Rule",
@@ -1205,7 +1084,6 @@
     "Self_Regulation_Category": "Productivity/Burnout Prevention",
     "Description": "Committing to a strict end time for work or demanding activities to prevent overextension and ensure rest.",
     "Instructions": "Set a non-negotiable end time for your workday or a challenging task, and stick to it, even if things aren't \"perfectly\" finished.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Social Recharge Plan",
@@ -1213,7 +1091,6 @@
     "Self_Regulation_Category": "Social Energy Management",
     "Description": "Having a predefined strategy for how and when you will recharge after social interactions.",
     "Instructions": "After a social event, know if you need immediate quiet time, a comforting routine, or sensory input (e.g., a warm bath, noise-canceling headphones).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-Decision Making (Outfits, Meals)",
@@ -1221,7 +1098,6 @@
     "Self_Regulation_Category": "Executive Function/Decision Fatigue",
     "Description": "Making small, repetitive decisions in advance (e.g., planning outfits for the week) to reduce daily mental load.",
     "Instructions": "On a Sunday, plan and perhaps even lay out your outfits for the entire week to eliminate daily decision fatigue.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Shower/Bath'",
@@ -1229,7 +1105,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Using the shower or bath as a dedicated space for sensory regulation and intense calming.",
     "Instructions": "Focus on the sensory experience: the warmth of the water, the scent of soap, the sound of the spray. Use it as a mini-reset.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Colors/Lighting",
@@ -1237,7 +1112,6 @@
     "Self_Regulation_Category": "Environmental Accommodation",
     "Description": "Deliberately choosing specific colors or lighting in your environment that are visually calming or stimulating as needed.",
     "Instructions": "Use warm, soft lighting in your relaxation spaces. Opt for cooler, brighter lights in work areas if that aids focus. Incorporate colors you find visually soothing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'If-Then' Planning",
@@ -1245,7 +1119,6 @@
     "Self_Regulation_Category": "Executive Function/Proactive",
     "Description": "Creating specific contingency plans for common challenges or potential pitfalls in your day or tasks.",
     "Instructions": "IF I get distracted by my phone, THEN I will put it in the other room. \"IF I forget my keys, THEN I will check my 'key hook' immediately.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Special Interest Deep Dive (Planned)",
@@ -1253,7 +1126,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Recharge",
     "Description": "Deliberately scheduling time to immerse yourself fully in a special interest as a powerful form of self-regulation and joy.",
     "Instructions": "Block out dedicated, uninterrupted time in your schedule to engage deeply with a special interest, allowing for intense focus and positive emotional recharge.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Clean Enough\" Standard",
@@ -1261,7 +1133,6 @@
     "Self_Regulation_Category": "Self-Compassion/Productivity",
     "Description": "Adjusting personal standards for cleanliness or organization to a realistic, sustainable level, rather than striving for perfection.",
     "Instructions": "Instead of aiming for sparkling clean, focus on \"tidy enough to function.\" Prioritize safety and basic hygiene over immaculate perfection.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Filtering Tools",
@@ -1269,7 +1140,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Environment",
     "Description": "Using specific tools or strategies to actively filter out unwanted sensory input from your environment.",
     "Instructions": "Wear sunglasses indoors if bright lights bother you, use earplugs or noise-canceling earbuds in noisy places, or wear a hat to reduce visual stimulation.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Accountability Buddy' (Low Stakes)",
@@ -1277,7 +1147,6 @@
     "Self_Regulation_Category": "Motivation/Productivity",
     "Description": "Partnering with someone for mutual support on tasks, where the consequence for not doing it is simply checking in, not failure.",
     "Instructions": "Find a friend to simply check in with daily about your goals. The goal isn't punishment for not completing, but gentle encouragement and shared effort.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Migration",
@@ -1285,7 +1154,6 @@
     "Self_Regulation_Category": "Executive Function/Flexibility",
     "Description": "Moving tasks to a different time, place, or method when the original approach isn't working, without guilt.",
     "Instructions": "If you can't focus on writing at your desk, try dictating into your phone while walking, or move to a coffee shop if that helps your focus.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Reading/Listening",
@@ -1293,7 +1161,6 @@
     "Self_Regulation_Category": "Decompression/Emotional Regulation",
     "Description": "Engaging with familiar, low-stress books, audiobooks, or podcasts purely for comfort and relaxation, not for learning or productivity.",
     "Instructions": "Re-read a favorite book, listen to a familiar audiobook you know by heart, or put on a podcast that is soothing rather than stimulating.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Buffer Time' Rule",
@@ -1301,7 +1168,6 @@
     "Self_Regulation_Category": "Time Management/Transitions",
     "Description": "Adding extra, unplanned time between scheduled activities to allow for unexpected delays or necessary decompression.",
     "Instructions": "If one meeting ends at 11:00 AM and the next starts at 11:30 AM, mentally schedule the second at 11:45 AM to give yourself a buffer.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Object Permanence Reminders",
@@ -1309,7 +1175,6 @@
     "Self_Regulation_Category": "Memory/Executive Function",
     "Description": "Using physical objects or visual reminders to compensate for challenges with object permanence (out of sight, out of mind).",
     "Instructions": "Leave frequently used items (e.g., wallet, keys) in visible, designated spots rather than tucked away in drawers. Use clear containers for storage.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Planned Escapes (Social)",
@@ -1317,7 +1182,6 @@
     "Self_Regulation_Category": "Social Energy Management/Boundaries",
     "Description": "Having a pre-determined exit strategy for social situations when you anticipate or experience overwhelm.",
     "Instructions": "Before a party, decide you'll stay for a specific amount of time, or identify a quiet spot you can retreat to, or have an excuse ready to leave.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Safe' Outfit",
@@ -1325,7 +1189,6 @@
     "Self_Regulation_Category": "Sensory Comfort/Routine",
     "Description": "Identifying and regularly wearing a specific outfit or type of clothing that provides consistent, comfortable sensory input.",
     "Instructions": "Have one or more \"go-to\" outfits that always feel right (e.g., specific fabric, loose fit, no tags) to reduce daily sensory overwhelm from clothing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Hyperfocus 'Scheduling'",
@@ -1333,7 +1196,6 @@
     "Self_Regulation_Category": "Productivity/Leveraging Strengths",
     "Description": "Deliberately blocking out time for activities that often trigger hyperfocus, turning it into a productive asset.",
     "Instructions": "If you know you can hyperfocus on coding or a creative project, schedule dedicated, uninterrupted blocks for it, rather than trying to force other tasks during that time.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Minimal Prep' Meal Strategy",
@@ -1341,7 +1203,6 @@
     "Self_Regulation_Category": "Energy Management/Executive Function",
     "Description": "Stocking up on and relying heavily on meals that require minimal cooking, dishes, or mental effort.",
     "Instructions": "Keep a supply of microwaveable meals, pre-cut vegetables, or ingredients for very simple one-pan dishes for days when executive function is low.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Weighted Compression Vests/Clothing",
@@ -1349,7 +1210,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Wearing specialized clothing that provides consistent, gentle pressure across the torso for calming and grounding.",
     "Instructions": "Explore sensory compression vests or fitted athletic wear that offers comforting deep pressure, often worn discreetly under regular clothes.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Special Interest as De-stressor",
@@ -1357,7 +1217,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Recharge",
     "Description": "Using a special interest as a primary, intentional method for de-stressing and emotional regulation after a difficult day.",
     "Instructions": "Immediately after a stressful event, dedicate time to engaging deeply with your special interest (e.g., researching a topic, working on a collection, deep-diving into a game).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Walk Away' Technique",
@@ -1365,7 +1224,6 @@
     "Self_Regulation_Category": "Overwhelm Reduction/Emotional Reg.",
     "Description": "Physically removing yourself from an overwhelming situation to prevent escalation of sensory overload or emotional dysregulation.",
     "Instructions": "If a place becomes too noisy or a conversation too intense, physically leave the area for a few minutes to regain composure.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Body Scan (Sensory Focus)",
@@ -1373,7 +1231,6 @@
     "Self_Regulation_Category": "Mindfulness/Sensory Awareness",
     "Description": "A variation of body scan focusing specifically on identifying and understanding different sensory inputs throughout the body.",
     "Instructions": "Lie down and systematically bring awareness to each part of your body, noticing not just tension, but how different textures, temperatures, or pressure feel.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'One Item at a Time' Cleanup",
@@ -1381,7 +1238,6 @@
     "Self_Regulation_Category": "Overwhelm Reduction/Task Initiation",
     "Description": "When a space is overwhelming, commit to only putting away or dealing with one single item at a time.",
     "Instructions": "Instead of looking at a messy room, just pick up one piece of trash, or put one item back in its place, then repeat.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Schedule/Picture Calendar",
@@ -1389,7 +1245,6 @@
     "Self_Regulation_Category": "Executive Function/Routine",
     "Description": "Using a calendar with pictures or simplified visual representations for daily activities and routines.",
     "Instructions": "Create a daily or weekly schedule using drawings, symbols, or photos for each activity, especially helpful for managing transitions.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task 'Chunking' by Location",
@@ -1397,7 +1252,6 @@
     "Self_Regulation_Category": "Productivity/Executive Function",
     "Description": "Grouping tasks by physical location to reduce context switching and unnecessary movement.",
     "Instructions": "Instead of doing one kitchen chore, then a bedroom chore, then back to the kitchen, tackle all kitchen chores at once before moving to another room.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Reset' Station",
@@ -1405,7 +1259,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Proactive",
     "Description": "Creating a small, dedicated spot within your home with specific tools for quick sensory recalibration.",
     "Instructions": "This might include a comfortable pillow, a favorite fidget toy, a small bottle of a calming essential oil, and a pair of earplugs.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Brain to Page' Dump (Structured)",
@@ -1413,7 +1266,6 @@
     "Self_Regulation_Category": "Cognitive Management/Planning",
     "Description": "A more structured brain dump where ideas are quickly categorized or bulleted as they come out, for easier processing later.",
     "Instructions": "Use a notebook with pre-drawn sections (e.g., \"To Do,\" \"Thoughts,\" \"Ideas,\" \"Worries\") to quickly sort information as you dump it from your mind.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Weighted Eye Mask\"",
@@ -1421,7 +1273,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Sleep Aid",
     "Description": "Using a weighted eye mask to provide gentle pressure on the eyes, aiding in relaxation, reducing light sensitivity, and promoting sleep.",
     "Instructions": "Place a weighted eye mask over your eyes when resting, meditating, or trying to fall asleep to experience calming deep pressure.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Pairing (Dreaded + Enjoyed)",
@@ -1429,7 +1280,6 @@
     "Self_Regulation_Category": "Motivation/Productivity",
     "Description": "Pairing a highly disliked or difficult task with a genuinely enjoyable or stimulating activity.",
     "Instructions": "Only allow yourself to listen to your favorite podcast while doing the dishes, or only watch a specific show while folding laundry.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-emptive Problem Solving",
@@ -1437,7 +1287,6 @@
     "Self_Regulation_Category": "Executive Function/Anxiety",
     "Description": "Anticipating potential difficulties or triggers in advance and creating a plan to address them before they occur.",
     "Instructions": "Before a new social event, mentally rehearse possible scenarios and how you'll respond, or identify potential sensory triggers and how you'll mitigate them.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Mental Vacation' Mini-Break",
@@ -1445,7 +1294,6 @@
     "Self_Regulation_Category": "Decompression/Cognitive Mgmt",
     "Description": "Briefly mentally transporting yourself to a pleasant, imaginary place to de-stress and clear your mind.",
     "Instructions": "Close your eyes for 1-2 minutes and vividly imagine yourself in a favorite peaceful place (e.g., a quiet beach, a cozy cabin).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Specific Hydration",
@@ -1453,7 +1301,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Well-being",
     "Description": "Using specific temperatures or textures of drinks for regulation (e.g., very cold water, warm tea, fizzy drinks).",
     "Instructions": "Keep ice-cold water readily available for alertness, or a comforting warm beverage for relaxation, depending on your sensory need.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Reminder Alarms",
@@ -1461,7 +1308,6 @@
     "Self_Regulation_Category": "Executive Function/Memory",
     "Description": "Setting alarms on your phone with specific, descriptive labels or images to prompt tasks, not just times.",
     "Instructions": "Set an alarm that says \"Pack Lunch\" or \"Take Meds\" rather than just a time, to provide immediate context for the action.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Micro-Declutter' Strategy",
@@ -1469,7 +1315,6 @@
     "Self_Regulation_Category": "Overwhelm Reduction/Environment",
     "Description": "Focusing on tidying only one very small, specific area at a time (e.g., one shelf, one drawer) when feeling overwhelmed by mess.",
     "Instructions": "Instead of \"clean the room,\" choose \"clear off this one corner of the desk\" or \"organize this one section of the bookshelf.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Low-Demand Social Scripts",
@@ -1477,7 +1322,6 @@
     "Self_Regulation_Category": "Social Communication/Energy Mgmt",
     "Description": "Having pre-prepared, low-energy ways to engage socially without extensive conversation or masking.",
     "Instructions": "For group gatherings, identify easy conversation topics (e.g., the food, a recent movie). Have simple questions ready (\"How's your week been?\").",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Scavenger Hunt'",
@@ -1485,7 +1329,6 @@
     "Self_Regulation_Category": "Grounding/Mindfulness",
     "Description": "Deliberately seeking out specific sensory inputs in your immediate environment to ground yourself.",
     "Instructions": "When feeling overwhelmed, actively look for \"something red,\" \"something soft,\" \"something that smells good,\" etc., to bring your focus to the present.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Routine Customization",
@@ -1493,7 +1336,6 @@
     "Self_Regulation_Category": "Routine Management/Flexibility",
     "Description": "Adjusting existing routines to better fit your natural energy fluctuations and preferences, rather than forcing a rigid schedule.",
     "Instructions": "If you're a night owl, shift non-essential morning tasks to the evening. If you dread a specific step, find a way to make it more palatable or delegate.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Interest-Based Productivity Tools",
@@ -1501,7 +1343,6 @@
     "Self_Regulation_Category": "Productivity/Motivation",
     "Description": "Using apps, planners, or systems that are designed around your specific interests or aesthetics to make productivity more engaging.",
     "Instructions": "Find a task management app with a theme you love, or a physical planner with designs that genuinely excite you, to increase engagement.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Noise Cancelling' Habit",
@@ -1509,7 +1350,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Environment",
     "Description": "Making it a routine to utilize noise-canceling technology in environments that are typically overwhelming.",
     "Instructions": "Get into the habit of putting on noise-canceling headphones (even without music) when entering a busy office, public transport, or a noisy cafe.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Emotional Contagion Shielding",
@@ -1517,7 +1357,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Boundaries",
     "Description": "Consciously protecting yourself from absorbing others' strong negative emotions.",
     "Instructions": "If someone is highly stressed or angry, create mental boundaries. Remind yourself their emotions are theirs, not yours, and limit exposure if possible.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Default Outfit'",
@@ -1525,7 +1364,6 @@
     "Self_Regulation_Category": "Decision Fatigue/Sensory Comfort",
     "Description": "Having a small selection of highly comfortable, sensory-friendly outfits that require no thought for daily wear.",
     "Instructions": "Curate 2-3 comfortable outfits that always feel good and fit well, and rotate them throughout the week to eliminate clothing decision fatigue.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Special Interest as Safe Space",
@@ -1533,7 +1371,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Recharge",
     "Description": "Using your special interest as a reliable mental and emotional refuge during times of stress or overwhelm.",
     "Instructions": "When feeling burnt out or dysregulated, retreat into your special interest \u2013 watch documentaries, read articles, organize your collection, without external pressure.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task 'Micro-Looping'",
@@ -1541,7 +1378,6 @@
     "Self_Regulation_Category": "Focus/Task Completion",
     "Description": "Breaking a repetitive task into tiny, self-contained loops with built-in mini-rewards to maintain focus.",
     "Instructions": "For laundry, the loop is: \"Pick up one item, fold it, place it in pile, then take a deep breath.\" Repeat.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Brain to Text' Dump",
@@ -1549,7 +1385,6 @@
     "Self_Regulation_Category": "Cognitive Management/Memory",
     "Description": "Rapidly typing or voice-to-texting overwhelming thoughts, ideas, or to-dos into a digital document.",
     "Instructions": "Use a notes app, a blank document, or a voice recorder to quickly capture everything in your head, then save it for later review.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Scan' Before Entry",
@@ -1557,7 +1392,6 @@
     "Self_Regulation_Category": "Proactive Sensory Regulation",
     "Description": "Quickly assessing the sensory environment of a new place before fully entering to anticipate potential overwhelm.",
     "Instructions": "Before walking into a noisy restaurant or bright store, pause at the entrance to gauge the light, sound, and smell levels.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Flexible Planning (with Backup Plans)",
@@ -1565,7 +1399,6 @@
     "Self_Regulation_Category": "Executive Function/Adaptability",
     "Description": "Creating plans with built-in flexibility and having clear backup options for when things don't go as expected.",
     "Instructions": "Plan your day, but also have \"Plan B\" options for key tasks if your energy or focus shifts unexpectedly. \"If I can't do X, I will do Y instead.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Rejection Sensitivity' Shield",
@@ -1573,7 +1406,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Self-Compassion",
     "Description": "Developing internal scripts or strategies to manage intense emotional reactions to perceived criticism or rejection.",
     "Instructions": "When you feel the sting of perceived rejection, remind yourself: \"This is my rejection sensitivity acting up. What is the objective reality? Is this really a personal attack, or something else?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Stim Toy Rotation\"",
@@ -1581,7 +1413,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Engagement",
     "Description": "Having a variety of fidget or stim toys and rotating them regularly to maintain novelty and effectiveness.",
     "Instructions": "Keep a few different types of stim toys. Rotate which ones you use daily or weekly to keep them interesting and to match different sensory needs.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task 'Brain Dumping' (Pre-Sleep)",
@@ -1589,7 +1420,6 @@
     "Self_Regulation_Category": "Cognitive Management/Sleep Aid",
     "Description": "Writing down all outstanding thoughts, worries, or to-dos before bed to clear the mind and aid sleep.",
     "Instructions": "Before trying to sleep, take 5-10 minutes to write down everything on your mind, clearing your mental slate for rest.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Mini-Victory' Celebration",
@@ -1597,7 +1427,6 @@
     "Self_Regulation_Category": "Motivation/Self-Compassion",
     "Description": "Acknowledging and celebrating even the smallest completed tasks to build momentum and positive reinforcement.",
     "Instructions": "After finishing a dreaded chore or a tiny step of a big project, take a moment to internally or externally acknowledge your achievement (\"Yay, I did it!\").",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Seeking Food Textures",
@@ -1605,7 +1434,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Using specific food textures (e.g., crunchy, chewy, smooth) as a way to self-regulate and manage oral sensory needs.",
     "Instructions": "Keep a stash of preferred textured foods like crunchy carrots, chewy dried fruit, or smooth purees for sensory input.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'One In, One Out' Declutter",
@@ -1613,7 +1441,6 @@
     "Self_Regulation_Category": "Organization/Executive Function",
     "Description": "A simple rule for preventing clutter accumulation: when a new item comes in, one old, similar item must go out.",
     "Instructions": "When you buy a new shirt, donate or discard an old one. When you get a new book, give one away.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled 'Rabbit Holes'",
@@ -1621,7 +1448,6 @@
     "Self_Regulation_Category": "Productivity/Leveraging Strengths",
     "Description": "Deliberately blocking out time for deep dives into special interests or highly engaging topics, as a reward or focus method.",
     "Instructions": "Instead of fighting a \"rabbit hole\" urge, schedule a specific time for it. \"After I finish X, I can research Y for 30 minutes.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Social Battery' Visual",
@@ -1629,7 +1455,6 @@
     "Self_Regulation_Category": "Social Energy Management",
     "Description": "Using a mental (or even physical) battery metaphor to track and communicate social energy levels.",
     "Instructions": "Mentally check your \"social battery\" throughout the day. If it's low, communicate to others, \"My battery is running low,\" to set boundaries.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Movement for Focus",
@@ -1637,7 +1462,6 @@
     "Self_Regulation_Category": "Focus/Physical Regulation",
     "Description": "Incorporating specific, often subtle, movements to aid concentration and manage restlessness.",
     "Instructions": "While working, try bouncing your leg, gently rocking, or pacing during phone calls if it helps you focus without disrupting others.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Audit' of Spaces",
@@ -1645,7 +1469,6 @@
     "Self_Regulation_Category": "Environmental Accommodation/Proactive",
     "Description": "Systematically assessing different rooms or environments for their sensory impact and identifying areas for modification.",
     "Instructions": "Walk through your home or office: \"Is this light too harsh? Is that hum distracting? Where is my calmest spot?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-Written Scripts (for difficult calls)",
@@ -1653,7 +1476,6 @@
     "Self_Regulation_Category": "Communication/Anxiety Mgmt",
     "Description": "Having short, prepared notes or scripts for anticipated challenging phone calls or interactions.",
     "Instructions": "Before making a customer service call or a difficult personal call, jot down key points, questions, and desired outcomes to stay on track.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Transition Playlist'",
@@ -1661,7 +1483,6 @@
     "Self_Regulation_Category": "Transitions/Emotional Regulation",
     "Description": "Creating a specific music playlist to help signal and facilitate transitions between different activities or moods.",
     "Instructions": "Have a \"wake up\" playlist, a \"work focus\" playlist, a \"wind down\" playlist, or a \"pump-up\" playlist for specific transitions.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual 'No-Go' Zones",
@@ -1669,7 +1490,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Boundaries",
     "Description": "Designating specific areas or situations as visually \"off-limits\" when sensory overload is a risk.",
     "Instructions": "Avoid looking directly into bright lights. Use a screen filter. If a cluttered area triggers overwhelm, physically turn away or put up a visual barrier.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Hyper-fixation as Research Tool",
@@ -1677,7 +1497,6 @@
     "Self_Regulation_Category": "Learning/Productivity",
     "Description": "Leaning into periods of intense, obsessive focus on a topic as a powerful learning or problem-solving method.",
     "Instructions": "When you feel a hyper-fixation starting on a relevant topic, allow yourself to dive deep, collecting information and making connections quickly.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Everything Drawer/Box'",
@@ -1685,7 +1504,6 @@
     "Self_Regulation_Category": "Organization/Executive Function",
     "Description": "Having one designated, often messy, drawer or box for miscellaneous items that don't have a clear home.",
     "Instructions": "Instead of scattering small items, create one specific \"everything drawer\" where things go when you don't have the energy to put them away properly.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Specific Personal Care",
@@ -1693,7 +1511,6 @@
     "Self_Regulation_Category": "Routine/Sensory Comfort",
     "Description": "Choosing personal care products based on their specific sensory qualities (scent, texture, temperature).",
     "Instructions": "Use a body wash with a scent you love, a toothpaste with a non-overwhelming flavor, or a hairbrush with bristles that feel good on your scalp.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Future Self' Motivation",
@@ -1701,7 +1518,6 @@
     "Self_Regulation_Category": "Motivation/Executive Function",
     "Description": "Framing tasks as acts of kindness or support for your future self, making them less daunting.",
     "Instructions": "Future me will be so grateful if current me just loads the dishwasher now. \"I'm setting up future me for success by doing this task.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pattern Recognition for Triggers",
@@ -1709,7 +1525,6 @@
     "Self_Regulation_Category": "Self-Understanding/Emotional Reg.",
     "Description": "Actively looking for recurring patterns or preceding events that lead to specific emotional states or overwhelm.",
     "Instructions": "Keep a simple log: \"What happened just before I felt overwhelmed? What was I doing/experiencing before I got frustrated?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Meetup",
@@ -1717,7 +1532,6 @@
     "Self_Regulation_Category": "Social Accommodation/Boundaries",
     "Description": "Suggesting or organizing social gatherings in environments known to be less sensually overwhelming.",
     "Instructions": "Suggest meeting at a quiet cafe during off-peak hours, going for a walk, or having a virtual chat instead of a loud restaurant or bar.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Micro-Movement Breaks (Subtle)",
@@ -1725,7 +1539,6 @@
     "Self_Regulation_Category": "Focus/Physical Regulation",
     "Description": "Incorporating very small, discreet movements into static situations to help maintain focus or release restlessness.",
     "Instructions": "Wiggle your toes inside your shoes, gently rock in your chair, or tap your fingers subtly under the desk during meetings or lectures.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Just 5 Minutes' Jumpstart",
@@ -1733,7 +1546,6 @@
     "Self_Regulation_Category": "Task Initiation/Overwhelm Reduction",
     "Description": "Committing to only 5 minutes of a dreaded task, with the full permission to stop when the time is up.",
     "Instructions": "Set a timer for 5 minutes and tell yourself, \"I only have to do this for 5 minutes.\" Often, once started, you'll continue beyond 5 minutes.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Sensory Check-Out\" Routine",
@@ -1741,7 +1553,6 @@
     "Self_Regulation_Category": "Decompression/Sensory Regulation",
     "Description": "A deliberate sequence of actions to systematically reduce sensory input after a stimulating environment.",
     "Instructions": "After a busy day, dim lights, put on noise-canceling headphones, change into comfort clothes, and engage in a calming sensory activity.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Interest-Based Scheduling",
@@ -1749,7 +1560,6 @@
     "Self_Regulation_Category": "Productivity/Motivation",
     "Description": "Structuring your day or week around periods of high interest or motivation, rather than strict time blocks.",
     "Instructions": "Identify when you feel naturally drawn to certain tasks (e.g., coding late at night, creative work in the morning) and schedule them then.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Task Completion",
@@ -1757,7 +1567,6 @@
     "Self_Regulation_Category": "Motivation/Executive Function",
     "Description": "Using physical or digital visual cues to mark off completed tasks, providing a satisfying sense of accomplishment.",
     "Instructions": "Use a whiteboard, a large planner, or a digital checklist app where you can physically tick, cross out, or move tasks to a \"done\" column.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Safe Food' Stash",
@@ -1765,7 +1574,6 @@
     "Self_Regulation_Category": "Executive Function/Sensory Comfort",
     "Description": "Keeping a reliable supply of a few specific foods that are always palatable and sensory-safe, especially for low-energy days.",
     "Instructions": "Stock your pantry with a few go-to \"safe foods\" that you know you can always eat, even when overstimulated or executive function is low.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Playlist",
@@ -1773,7 +1581,6 @@
     "Self_Regulation_Category": "Focus/Sensory Regulation",
     "Description": "Curating a music playlist specifically designed to aid focus, calm, or energize without being distracting.",
     "Instructions": "Create playlists with instrumental music, specific genres (e.g., lo-fi, classical), or natural sounds that help you concentrate or relax without demanding attention.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Planned 'Info Dumps' (To Self)",
@@ -1781,7 +1588,6 @@
     "Self_Regulation_Category": "Cognitive Management/Overwhelm",
     "Description": "Scheduling dedicated time to freely write or speak all thoughts and information swirling in your mind, for release and organization.",
     "Instructions": "Set a timer for 10-15 minutes and just dump all thoughts, ideas, and worries onto paper or into a voice recording, without judgment or pressure to act.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Body Doubling' App/Community",
@@ -1789,7 +1595,6 @@
     "Self_Regulation_Category": "Productivity/Accountability",
     "Description": "Utilizing online platforms or apps that connect you with others working in parallel for shared focus and accountability.",
     "Instructions": "Join a virtual \"body doubling\" session or use an app that provides a quiet, shared virtual workspace to help stay on task.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'No' Script Practice",
@@ -1797,7 +1602,6 @@
     "Self_Regulation_Category": "Boundaries/Communication",
     "Description": "Rehearsing simple, clear ways to say \"no\" or set limits without over-explaining or feeling guilty.",
     "Instructions": "Practice phrases like \"That doesn't work for me,\" \"I have a prior commitment,\" or \"I need to prioritize my energy right now\" in front of a mirror.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory Calming Scents",
@@ -1805,7 +1609,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Emotional",
     "Description": "Using specific essential oils or other scents known to promote calmness and reduce anxiety.",
     "Instructions": "Keep a rollerball with lavender oil, a calming room spray, or a scented candle nearby to use when feeling overwhelmed or needing to relax.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Micro-Breaks for Special Interest",
@@ -1813,7 +1616,6 @@
     "Self_Regulation_Category": "Motivation/Focus",
     "Description": "Integrating very short bursts of special interest engagement into work or study periods as quick motivators.",
     "Instructions": "After completing a small task, allow yourself 1-2 minutes to look at a favorite image related to your special interest, read a fun fact, or watch a short clip.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Brain to Whiteboard' Dump",
@@ -1821,7 +1623,6 @@
     "Self_Regulation_Category": "Organization/Executive Function",
     "Description": "Using a large whiteboard to visually map out thoughts, tasks, or project components, leveraging visual processing.",
     "Instructions": "Dedicate a section of a whiteboard to \"ideas,\" \"to-do,\" \"currently working on,\" and move things around as you process them.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Bag' for Outings",
@@ -1829,7 +1630,6 @@
     "Self_Regulation_Category": "Proactive Regulation/Portability",
     "Description": "Assembling a small bag with essential sensory regulation tools to take with you when leaving the house.",
     "Instructions": "Pack earplugs/headphones, a favorite fidget, a calming scent, and perhaps a small, comforting snack or drink for public outings.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled 'Unmasking' Time",
@@ -1837,7 +1637,6 @@
     "Self_Regulation_Category": "Energy Management/Well-being",
     "Description": "Deliberately blocking out time in your day or week where you consciously allow yourself to drop any social masking.",
     "Instructions": "Schedule specific periods (e.g., an hour after work, Saturday mornings) where you can be fully yourself, without performing or conforming.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Future Me' Task List",
@@ -1845,7 +1644,6 @@
     "Self_Regulation_Category": "Executive Function/Motivation",
     "Description": "Creating lists or reminders specifically for your future self, as if you're helping a different person.",
     "Instructions": "Write a note: \"Hey future me, remember to pack your lunch for tomorrow!\" or \"Future me will thank current me for tidying this up now.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Texture Items",
@@ -1853,7 +1651,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Keeping specific items with satisfying textures readily available for tactile self-soothing.",
     "Instructions": "Have a smooth stone, a velvet cloth, a squishy stress ball, or a plush toy that you can touch and manipulate for comfort.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'One Thing Started' Rule",
@@ -1861,7 +1658,6 @@
     "Self_Regulation_Category": "Task Initiation/Overwhelm Reduction",
     "Description": "When completely stuck, commit to just starting the absolute first step of a task, even if it's just opening a document.",
     "Instructions": "Don't aim to complete the task; just aim to initiate it. Opening the document, turning on the computer, or getting the cleaning supplies out counts.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Body Language 'Reads' (for self)",
@@ -1869,7 +1665,6 @@
     "Self_Regulation_Category": "Self-Awareness/Emotional Reg.",
     "Description": "Paying attention to your own physical sensations and body language as early warning signs of stress or overwhelm.",
     "Instructions": "Notice tension in your shoulders, fidgeting, or shallow breathing. Use these physical cues as a signal to engage a self-regulation hack.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Countdown Timers (Large)",
@@ -1877,7 +1672,6 @@
     "Self_Regulation_Category": "Time Management/Transitions",
     "Description": "Using large, clear visual timers (like kitchen timers or apps with big numbers) to manage time blindness and transitions.",
     "Instructions": "Place a large timer in a visible spot. Set it for specific work blocks, breaks, or to signal when it's time to switch tasks or leave.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Auditory Calming Environment",
@@ -1885,7 +1679,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Environment",
     "Description": "Creating an auditory environment that promotes calm through chosen sounds or minimal sound.",
     "Instructions": "Use noise-canceling headphones, play white/brown/pink noise, or listen to soft, consistent ambient sounds (e.g., gentle rain, distant ocean waves).",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Just for Today' Mindset",
@@ -1893,7 +1686,6 @@
     "Self_Regulation_Category": "Overwhelm Reduction/Self-Compassion",
     "Description": "Focusing only on what needs to be done today, letting go of the burden of future tasks or past failures.",
     "Instructions": "When feeling overwhelmed by a large workload or long-term goals, tell yourself, \"I only need to focus on what's actionable just for today.\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Weighted Plushie/Stuffed Animal\"",
@@ -1901,7 +1693,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Emotional",
     "Description": "Using a weighted plush toy or stuffed animal for comforting deep pressure input and emotional support.",
     "Instructions": "Keep a weighted stuffed animal nearby to hold, place on your lap, or cuddle with when feeling anxious, overwhelmed, or needing comfort.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Safe Lighting",
@@ -1909,7 +1700,6 @@
     "Self_Regulation_Category": "Environmental Accommodation",
     "Description": "Modifying lighting to reduce harshness or overstimulation, using warm tones or indirect light.",
     "Instructions": "Use dimmers, warm-toned light bulbs (e.g., smart bulbs that change color), lamps instead of overhead lights, or string lights for softer illumination.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Done for the Day' Signal",
@@ -1917,7 +1707,6 @@
     "Self_Regulation_Category": "Boundaries/Energy Management",
     "Description": "Creating a specific, ritualistic action to signal the end of the workday or a demanding task, promoting mental disengagement.",
     "Instructions": "At the end of work, close a specific application, put away a certain item, or say \"Done for the day!\" out loud to transition out of work mode.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Rule Boards/Charts",
@@ -1925,7 +1714,6 @@
     "Self_Regulation_Category": "Executive Function/Routine",
     "Description": "Creating clear, simple visual charts for rules or expectations in shared spaces to reduce ambiguity.",
     "Instructions": "In a shared home, create a chart for \"kitchen rules\" or \"laundry steps\" with simple text or pictures to minimize misunderstandings and friction.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Hyper-fixation' Planner",
@@ -1933,7 +1721,6 @@
     "Self_Regulation_Category": "Productivity/Leveraging Strengths",
     "Description": "A dedicated section in a planner or notebook specifically for tracking and managing current hyper-fixations.",
     "Instructions": "Jot down notes, links, or ideas related to your current hyper-fixation here. This acknowledges it without letting it derail other tasks.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Auditory Cues for Transitions",
@@ -1941,7 +1728,6 @@
     "Self_Regulation_Category": "Routine/Executive Function",
     "Description": "Using specific sounds or songs as a non-verbal signal for upcoming transitions or routine steps.",
     "Instructions": "Play a particular song to signal the start of your morning routine, or a chime to indicate it's time to switch tasks.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Emotional Comfort' Playlist",
@@ -1949,7 +1735,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Decompression",
     "Description": "A playlist specifically curated with songs that reliably evoke feelings of calm, joy, or catharsis.",
     "Instructions": "Create a playlist of songs that consistently help you regulate your emotions, whether for calming down, feeling motivated, or processing sadness.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-Packed 'Go Bags'",
@@ -1957,7 +1742,6 @@
     "Self_Regulation_Category": "Executive Function/Anxiety Mgmt",
     "Description": "Having pre-assembled bags for common outings (e.g., gym, library, park) to reduce decision fatigue and forgotten items.",
     "Instructions": "Keep a gym bag packed, a \"library run\" bag with books and cards, or a \"park bag\" with water and sunscreen, ready to grab and go.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Background",
@@ -1965,7 +1749,6 @@
     "Self_Regulation_Category": "Environment/Focus",
     "Description": "Utilizing a simple, consistent, and visually calm background for video calls or digital workspaces.",
     "Instructions": "Choose a plain wall, a simple curtain, or a consistent virtual background to minimize visual distractions for yourself and others during calls.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Mini-Meditations (Sensory Focus)",
@@ -1973,7 +1756,6 @@
     "Self_Regulation_Category": "Mindfulness/Grounding",
     "Description": "Very short meditative practices that focus intensely on one specific sense to ground yourself quickly.",
     "Instructions": "For 30-60 seconds, focus only on the sensation of your breath, the feeling of your feet on the floor, or one specific sound in the room.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'External Voice' for Tasks",
@@ -1981,7 +1763,6 @@
     "Self_Regulation_Category": "Motivation/Executive Function",
     "Description": "Using a voice recording of yourself or a text-to-speech app to externalize instructions for a task.",
     "Instructions": "If reading instructions is hard, record yourself saying the steps of a task, or use text-to-speech to read them aloud, making them easier to process.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Objects (Pocket-Sized)",
@@ -1989,7 +1770,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Portability",
     "Description": "Carrying small, discreet comfort objects that provide tactile or other sensory input without drawing attention.",
     "Instructions": "Keep a smooth stone, a worry coin, a small piece of textured fabric, or a small, silent fidget in your pocket for discreet self-soothing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'No Pressure' Social Loop",
@@ -1997,7 +1777,6 @@
     "Self_Regulation_Category": "Social Communication/Energy Mgmt",
     "Description": "Having specific individuals or groups with whom you have a mutual understanding of low-pressure, asynchronous communication.",
     "Instructions": "Establish with certain friends that it's okay for messages to go unanswered for days, and that calls don't require immediate answers, reducing social pressure.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Reminders for Self-Care",
@@ -2005,7 +1784,6 @@
     "Self_Regulation_Category": "Self-Care/Executive Function",
     "Description": "Placing highly visible reminders for essential self-care tasks (e.g., hydrate, stretch, eat) around your environment.",
     "Instructions": "Put sticky notes on your monitor to drink water, a reminder on your bathroom mirror to stretch, or a fruit bowl in plain sight to prompt healthy eating.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Permission to Reset' Card",
@@ -2013,7 +1791,6 @@
     "Self_Regulation_Category": "Self-Compassion/Emotional Reg.",
     "Description": "A mental or physical \"card\" you give yourself permission to use when you need to completely reset your day or current state.",
     "Instructions": "When a day goes completely off the rails, mentally (or literally) declare, \"I'm using my reset card.\" Then, pivot to a self-soothing or low-demand activity.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Auditory Cues for Safety",
@@ -2021,7 +1798,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Awareness",
     "Description": "Using specific sounds or auditory information to feel safe or aware of your surroundings.",
     "Instructions": "Playing specific background music at home to feel less isolated, or using headphones with a \"transparency\" mode in public to stay aware of surroundings.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Breakdown Buddy' Protocol",
@@ -2029,7 +1805,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Support",
     "Description": "Establishing a pre-arranged plan with a trusted person for what to do during or after a meltdown/shutdown.",
     "Instructions": "Agree with a trusted friend/partner on specific actions (e.g., quiet space, bring water, no talking) if you're experiencing sensory overload or emotional distress.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task Visualization (Detailed)",
@@ -2037,7 +1812,6 @@
     "Self_Regulation_Category": "Motivation/Executive Function",
     "Description": "Mentally walking through every step of a task in vivid detail before starting, to aid planning and reduce overwhelm.",
     "Instructions": "Before doing laundry, visualize each step: carrying the basket, sorting, loading, starting machine, moving to dryer, folding, putting away.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Snack Box'",
@@ -2045,7 +1819,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Self-Soothing",
     "Description": "A small container filled with various sensory \"snacks\" (small items that provide quick, diverse sensory input).",
     "Instructions": "Fill a small box with items like a mini stress ball, a strong-smelling essential oil wipe, a piece of crunchy gum, or a smooth stone for quick sensory input.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Pre-computation for Social Events",
@@ -2053,7 +1826,6 @@
     "Self_Regulation_Category": "Social Communication/Anxiety Mgmt",
     "Description": "Mentally or physically preparing answers to common social questions (e.g., \"How are you?\") to reduce social anxiety.",
     "Instructions": "Before a social event, think about predictable questions and have a few generic, comfortable answers ready, so you don't have to formulate them on the spot.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The \"Weighted Vest/Scarf\"",
@@ -2061,7 +1833,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Calming",
     "Description": "Using a weighted vest or a heavy scarf/shawl to provide constant, comforting deep pressure.",
     "Instructions": "Wear a weighted vest designed for sensory input, or simply drape a heavy scarf or shawl around your shoulders/lap when needing grounding pressure.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Task 'Splitting' (by energy)",
@@ -2069,7 +1840,6 @@
     "Self_Regulation_Category": "Productivity/Executive Function",
     "Description": "Breaking large tasks into segments that match your fluctuating energy levels throughout the day or week.",
     "Instructions": "Instead of \"write report,\" split it into \"outline (high focus),\" \"research (medium focus),\" \"draft paragraphs (low focus),\" and tackle them when your energy aligns.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Shower/Bath' Reset",
@@ -2077,7 +1847,6 @@
     "Self_Regulation_Category": "Decompression/Sensory Regulation",
     "Description": "Using the deliberate sensory experience of a shower or bath as a complete reset for overwhelm or dysregulation.",
     "Instructions": "Focus intensely on the sensory input: the water temperature, the sound, the steam, the scent of soap. Treat it as a mindful reset button.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual Time Management (Analog)",
@@ -2085,7 +1854,6 @@
     "Self_Regulation_Category": "Time Management/Executive Function",
     "Description": "Using analog clocks, sand timers, or visual countdown timers to make time more concrete and manageable.",
     "Instructions": "Use a large, visible analog clock, a sand timer for short tasks, or a Time Timer (shows time visually disappearing) to help with time blindness.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Comfort Texture Clothing Prep",
@@ -2093,7 +1861,6 @@
     "Self_Regulation_Category": "Sensory Comfort/Routine",
     "Description": "Pre-selecting or preparing outfits based purely on their comfortable and preferred sensory textures.",
     "Instructions": "Before laundry day, identify your absolute favorite-feeling clothes. Wash them together and prioritize wearing them when you need sensory comfort.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Emergency Snack' Kit",
@@ -2101,7 +1868,6 @@
     "Self_Regulation_Category": "Energy Management/Executive Function",
     "Description": "A small, portable kit of easy-to-eat, non-perishable \"safe foods\" for unexpected low-energy or overwhelm moments.",
     "Instructions": "Keep a small bag with granola bars, nuts, or individually wrapped sensory-preferred candies in your backpack, car, or desk drawer.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled 'Do Nothing' Time",
@@ -2109,7 +1875,6 @@
     "Self_Regulation_Category": "Energy Management/Burnout Prevention",
     "Description": "Deliberately blocking out time in your schedule where there is no expectation to be productive or social.",
     "Instructions": "Treat \"do nothing\" time as a vital appointment. Lie down, stare at the ceiling, or sit quietly without phone, book, or task.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'One Thing Out' Rule (Declutter)",
@@ -2117,7 +1882,6 @@
     "Self_Regulation_Category": "Organization/Executive Function",
     "Description": "A gentle decluttering method: whenever you leave a room, take one item that doesn't belong and put it away.",
     "Instructions": "As you exit a room, scan for one item out of place (e.g., a mug, a book) and take it with you to put away.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Sensory-Focused Self-Care Routine",
@@ -2125,7 +1889,6 @@
     "Self_Regulation_Category": "Self-Care/Sensory Regulation",
     "Description": "Designing self-care routines around activities that provide specific, regulating sensory input.",
     "Instructions": "Instead of just \"relax,\" choose specific sensory self-care: a hot bath with epsom salts, listening to calming music with headphones, or using a vibrating massage tool.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Social Prep' Checklist",
@@ -2133,7 +1896,6 @@
     "Self_Regulation_Category": "Social Communication/Anxiety Mgmt",
     "Description": "A brief mental or physical checklist to prepare for social interactions, reducing anxiety and improving performance.",
     "Instructions": "Before a social event, quickly review: \"Do I know the topic? Do I have an exit plan? Am I wearing comfortable clothes? Do I have my fidget?\"",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Hyperfocus 'Timer Traps'",
@@ -2141,7 +1903,6 @@
     "Self_Regulation_Category": "Productivity/Focus",
     "Description": "Setting alarms or reminders to break out of a hyperfocus period to avoid losing track of time or other commitments.",
     "Instructions": "If you know you're prone to hyperfocus, set an alarm that says \"Time to switch tasks!\" or \"Check in on X!\" every 30-60 minutes.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Affirmation Anchor'",
@@ -2149,7 +1910,6 @@
     "Self_Regulation_Category": "Emotional Regulation/Self-Compassion",
     "Description": "Pairing a positive affirmation with a physical touch or action to create a rapid self-soothing response.",
     "Instructions": "Choose an affirmation (\"I am safe,\" \"I am capable\"). Repeat it while pressing your thumb and forefinger together. Use the touch later to recall the feeling.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Visual 'Energy Bar'",
@@ -2157,7 +1917,6 @@
     "Self_Regulation_Category": "Energy Management/Self-Awareness",
     "Description": "A simple visual representation (mental or drawn) of your energy level throughout the day to guide activity choices.",
     "Instructions": "Mentally picture your \"energy bar\" (like in a video game). If it's low, prioritize rest. If high, tackle more demanding tasks.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Sensory Bin' (Adult Version)",
@@ -2165,7 +1924,6 @@
     "Self_Regulation_Category": "Sensory Regulation/Stress Relief",
     "Description": "A container filled with various items that offer diverse, satisfying sensory experiences for hands-on calming.",
     "Instructions": "Create a bin with kinetic sand, water beads, smooth stones, dried beans, or small fidget toys to run your hands through for tactile input.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Rule of Three' (Daily)",
@@ -2173,7 +1931,6 @@
     "Self_Regulation_Category": "Productivity/Prioritization",
     "Description": "Limiting your daily \"must-do\" tasks to the three most crucial items to prevent overwhelm and ensure essential progress.",
     "Instructions": "At the start of each day, identify only the three absolute most important things you need to achieve, and focus on those first.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Verbal Instructions (for self)",
@@ -2181,7 +1938,6 @@
     "Self_Regulation_Category": "Executive Function/Task Initiation",
     "Description": "Giving yourself instructions out loud for tasks, as if teaching someone else, to aid processing and initiation.",
     "Instructions": "Okay, first I need to open the document. Then I'll find the section for X. Then I'll start typing.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Interest-Based' Environment",
@@ -2189,7 +1945,6 @@
     "Self_Regulation_Category": "Focus/Motivation/Environment",
     "Description": "Surrounding yourself with elements related to your special interests to create a more engaging and motivating space.",
     "Instructions": "Decorate your workspace with items related to your special interest, or have books/models related to it visible to subtly boost mood and focus.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "Scheduled 'Wiggle Time'",
@@ -2197,7 +1952,6 @@
     "Self_Regulation_Category": "Physical Regulation/Focus",
     "Description": "Deliberately blocking out short periods for unrestricted, sensory-seeking movement.",
     "Instructions": "If you have trouble sitting still, schedule 5-10 minutes every hour or two to walk, stretch, dance, or engage in other preferred movements.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Compassionate Self-Talk' Script",
@@ -2205,7 +1959,6 @@
     "Self_Regulation_Category": "Self-Compassion/Emotional Reg.",
     "Description": "Developing specific, kind phrases to use when you're being self-critical or experiencing intense emotional distress.",
     "Instructions": "When feeling down, tell yourself, \"It's okay to feel this way,\" or \"I'm doing my best, and that's enough,\" as if speaking to a loved one.",
-    "Unnamed: 5": null
   },
   {
     "Self_Regulation_Technique_Name": "The 'Out of Sight, Out of Mind' Solution",
@@ -2213,6 +1966,5 @@
     "Self_Regulation_Category": "Organization/Executive Function",
     "Description": "Strategically putting away distracting items or visual clutter that can lead to overwhelm.",
     "Instructions": "Use opaque bins, close cupboard doors, or put distracting items in a separate room when you need to focus or feel overwhelmed by visual chaos.",
-    "Unnamed: 5": null
   }
 ]

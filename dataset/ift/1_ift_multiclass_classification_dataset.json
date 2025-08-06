@@ -1,0 +1,827 @@
+[
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel so overwhelmed and can't focus.",
+    "output": "Energy State: Emotional State\n- Problem Category: Anxiety / Stress\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have a big project due but I can't start.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Procrastination\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I had a fight with my partner and feel awful.",
+    "output": "Energy State: Situational\n- Problem Category: Conflict\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just feel sad and have no energy.",
+    "output": "Energy State: Emotional State\n- Problem Category: Low Mood\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind is racing and I can't focus on one thing.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Lack of Focus\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My brain feels like mush, I can't think at all.",
+    "output": "Energy State: Emotional State\n- Problem Category: Overwhelm / Burnout\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just staring at my screen, nothing is getting done",
+    "output": "Energy State: Behavioral State\n- Problem Category: Task Paralysis\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I don't even care what to do, just tell me.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Decision Fatigue / Apathy\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My head feels fuzzy and overstimulated, I need quiet.",
+    "output": "Energy State: Situational\n- Problem Category: Sensory Overload (internal)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Everything is annoying me, I just want to be left alone",
+    "output": "Energy State: Emotional State\n- Problem Category: Irritability / Frustration (low tolerance)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I haven't even eaten or gotten dressed today, I'm stuck",
+    "output": "Energy State: Behavioral State\n- Problem Category: Basic Self-Care Lapse\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Even making a cup of tea feels like too much effort.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Simple Task Overwhelm\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just feel... flat. No emotions, no motivation.",
+    "output": "Energy State: Emotional State\n- Problem Category: Listlessness\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "It's a free day and I don't know what to do, feeling lost.",
+    "output": "Energy State: Situational\n- Problem Category: Unstructured Time Overwhelm\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just going to go back to sleep and ignore everything.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Avoidance (extreme)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I keep getting distracted from my work, jumping between tabs.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Mild Procrastination\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just feeling generally stressed about my to-do list.",
+    "output": "Energy State: Emotional State\n- Problem Category: General Stress / Annoyance\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My morning routine feels off, I need to get back on track.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Routine Adjustment\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to pick a new project to start, but there are too many options.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Minor Decision Making\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "This background noise is a bit annoying, hard to concentrate.",
+    "output": "Energy State: Situational\n- Problem Category: Mild Sensory Discomfort\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just don't feel like doing anything productive, but I should.",
+    "output": "Energy State: Emotional State\n- Problem Category: Lack of Motivation\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to tell my friend something important but I'm nervous how they'll react.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Communication Challenges\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm researching, but there's just so much information, I feel stuck.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Information Overload\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm so bored, I need something to do but nothing sounds good.",
+    "output": "Energy State: Emotional State\n- Problem Category: Boredom\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have a work event tonight and I'm already feeling tired thinking about it.",
+    "output": "Energy State: Situational\n- Problem Category: Pre-Social Event Jitters\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm hyperfocused on this, how do I make sure I don't lose track of time?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Intense Focus / Hyperfocus\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I want to maximize my productivity today, what's the best way?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Optimizing Productivity\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm so excited about this project, how can I sustain this energy?",
+    "output": "Energy State: Emotional State\n- Problem Category: Highly Motivated / Excited\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have a really complex problem at work, how can I approach it systematically?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Complex Problem Solving\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel great today, I want to connect with friends more effectively.",
+    "output": "Energy State: Situational\n- Problem Category: Social Engagement (desired)\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm ready to learn a new complex skill, where should I start?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Skill Development\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind is buzzing with ideas but I can't organize them into a cohesive plan.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Creative Block (high capacity)\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm feeling very alert and aware, how can I channel this into something productive?",
+    "output": "Energy State: Emotional State\n- Problem Category: High Alertness / Sensory Awareness\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm in a new environment, how can I adapt quickly and stay focused?",
+    "output": "Energy State: Situational\n- Problem Category: New Environment / Adaptation\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm ready to set some ambitious long-term goals, how do I make them achievable?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Long-Term Goal Setting\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "How can I maintain this deep focus for a longer period?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Sustained Focus\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel capable and ready to tackle anything today.",
+    "output": "Energy State: Emotional State\n- Problem Category: Confidence / Self-Efficacy\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My evening routine could be more efficient, any tips?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Routine Optimization\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have a big presentation, how do I stay sharp under pressure?",
+    "output": "Energy State: Situational\n- Problem Category: Performance Pressure\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind is buzzing with ideas, how do I capture them effectively?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Idea Generation\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm a little bit restless and can't quite settle down.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Anxiety / Unease\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to do that boring paperwork, how can I make myself start?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Initiating Undesired Tasks\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My to-do list is huge, what should I tackle first?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Task Prioritization\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I keep getting interrupted, I can't get anything done.",
+    "output": "Energy State: Situational\n- Problem Category: Interruptions / Distractions\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just can't bring myself to care anymore, I feel numb.",
+    "output": "Energy State: Emotional State\n- Problem Category: Resignation / Apathy\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I barely slept last night and feel completely off.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Disrupted Sleep Cycle\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "This problem is too complex, my brain just shuts down.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Overwhelm from Complexity\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "That flickering light is really bothering me, I can't ignore it.",
+    "output": "Energy State: Situational\n- Problem Category: Persistent Sensory Discomfort\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel a meltdown coming on, everything is too much.",
+    "output": "Energy State: Emotional State\n- Problem Category: Meltdown / Shutdown (pre-emptive)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My days have no structure, I feel aimless.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Lack of Routine\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My head is full of chaotic thoughts, I can't sort anything.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Mental Clutter\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm feeling really peaceful right now, how do I make this last?",
+    "output": "Energy State: Emotional State\n- Problem Category: Relief / Calm (maintaining)\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I want to consistently incorporate more self-care into my week.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Consistent Self-Care\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to map out a long-term strategy for my career goals.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Strategic Planning\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "A new change is coming, how can I adapt smoothly and effectively?",
+    "output": "Energy State: Situational\n- Problem Category: Adapting to Change\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm starting to feel a bit swamped, nothing critical yet.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Overwhelm\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm having trouble connecting these ideas, it's a bit fuzzy.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Mild Confusion\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I know I should do it, but I'm just dragging my feet.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Resistance to Effort\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "The light's not quite right, it's subtly distracting me.",
+    "output": "Energy State: Situational\n- Problem Category: Mild Sensory Annoyance\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just completely indifferent to what's happening around me.",
+    "output": "Energy State: Emotional State\n- Problem Category: Apathy / Indifference\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind feels empty, I need something to activate it.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Unstimulated\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have free time but no idea what to fill it with.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Lack of Direction\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My day feels so monotonous, I need a change.",
+    "output": "Energy State: Situational\n- Problem Category: Predictable Routine (boring)\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have energy, but it's making me a bit antsy.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Restlessness\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My ideas are flowing fast, I need to write them down quickly.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Rapid Thoughts (positive)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm really keen to dive into this new task now.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Eagerness to Start\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm really looking forward to X, can't wait for it to start.",
+    "output": "Energy State: Situational\n- Problem Category: Anticipation (positive)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel pretty content, neither high nor low, just... fine.",
+    "output": "Energy State: Emotional State\n- Problem Category: General Contentment\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My brain's just ticking over in the background, not actively engaged.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Background Processing\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm perfectly relaxed, just chilling out.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Relaxed State\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My space feels so familiar and safe, just peaceful.",
+    "output": "Energy State: Situational\n- Problem Category: Familiar Environment (calming)\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I've got a good vibe going, feeling slightly charged.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Excitement\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm alert, but my attention is scattered across many things.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Alertness without Focus\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm trying to juggle a few things at once, feeling a bit stretched.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Multi-tasking (attempting)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "The energy here is good, slightly stimulating but manageable.",
+    "output": "Energy State: Situational\n- Problem Category: Moderately Stimulating Environment\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel a bit numb, like I can't quite access my emotions.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Numbness\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "There's a song stuck in my head, I can't get it out.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Minor Repetitive Thoughts\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I keep mindlessly scrolling on my phone.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Low Impulse Control (mild)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "This quiet is starting to feel heavy, it's unsettling.",
+    "output": "Energy State: Situational\n- Problem Category: Uncomfortable Silence\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just feeling mellow, perfectly fine doing nothing.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mellow Contentment\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind is just drifting, enjoying a good daydream.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Daydreaming\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just feel like swaying gently, nothing strenuous.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Gentle Movement\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "The sound of the rain is perfectly soothing.",
+    "output": "Energy State: Situational\n- Problem Category: Natural Background Sound\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm buzzing with anticipation for the weekend.",
+    "output": "Energy State: Emotional State\n- Problem Category: Anticipatory Buzz\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Ideas are coming fast, but they're all over the place.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Fast but Unstructured Thoughts\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to move my hands while I think, it helps me focus.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Fidgeting (productive)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "This new topic is really sparking my interest!",
+    "output": "Energy State: Situational\n- Problem Category: New, Interesting Input\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel like reaching out to someone, just a quick chat.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Social Craving\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My brain feels ready to absorb new complex information.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Open to New Information\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm setting up my workspace to be really productive.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Prep for Productivity\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm a little impatient for things to get started.",
+    "output": "Energy State: Emotional State\n- Problem Category: Slight Impatience\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm really good at tuning out distractions when I want to.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Selective Attention (positive)\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm just dabbling in my hobby, no pressure to perform.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Engaging in Hobby (low stakes)\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Everything is just as it should be, comfortably predictable.",
+    "output": "Energy State: Situational\n- Problem Category: Predictable Comfort Zone\n- Cognitive Energy Level: Completely Bored/Neutral"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel like I'm zoning out a bit, disconnected from what's happening.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Dissociation / Zoning Out\n- Cognitive Energy Level: Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "What's the point? I feel like nothing will ever change.",
+    "output": "Energy State: Emotional State\n- Problem Category: Despair / Hopelessness (mild)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just want to pull the covers over my head and disappear.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Avoidance of all input\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My mind is completely blank, I can't remember anything.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Memory Block\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Everything is too loud and too bright, I need to escape.",
+    "output": "Energy State: Situational\n- Problem Category: Overstimulation (general)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel a deep sadness, not just tired, but heavy.",
+    "output": "Energy State: Emotional State\n- Problem Category: Melancholy / Sadness\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I can't stop fidgeting, it's making me even more stressed.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Stimming (uncontrolled)\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm so scared to make a mistake, I can't do anything.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Paralyzed by Fear\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel worthless, like I don't deserve anything good.",
+    "output": "Energy State: Emotional State\n- Problem Category: Feeling Unworthy\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Everything feels out of my control, I'm just drifting.",
+    "output": "Energy State: Situational\n- Problem Category: Lack of Control\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just can't talk right now, words won't come out.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Non-verbal Shutdown\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have some ideas, but they're not quite clicking into place.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Mild Creative Block\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm so bored, I need something to occupy my hands or mind.",
+    "output": "Energy State: Emotional State\n- Problem Category: Boredom (action-seeking)\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm slipping on my routine, need some motivation to stick with it.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Routine Maintenance Challenge\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm finding it hard to switch from one task to another.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Task Switching Difficulty\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have a social event coming up, how do I manage my energy?",
+    "output": "Energy State: Situational\n- Problem Category: Social Energy Management\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just feel a low level of unease, can't pinpoint why.",
+    "output": "Energy State: Emotional State\n- Problem Category: General Unease\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I really need to reply to that email, but I keep putting it off.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Mild Procrastination (specific task)\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm overthinking this small decision, it's taking too much time.",
+    "output": "Energy State: Cognitive State\n- Problem Category: Overthinking Minor Issues\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm not quite happy with how things are, but I don't know what to change.",
+    "output": "Energy State: Emotional State\n- Problem Category: Mild Dissatisfaction\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My workspace feels a bit cluttered, I need to optimize it for better focus.",
+    "output": "Energy State: Situational\n- Problem Category: Environmental Optimization\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm in a problem-solving mode, how can I efficiently test solutions?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Rapid Problem-Solving\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel incredible, how can I capture this positive energy?",
+    "output": "Energy State: Emotional State\n- Problem Category: Euphoria / Intense Joy\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I want to push my skills to the next level, how do I achieve mastery?",
+    "output": "Energy State: Behavioral State\n- Problem Category: Skill Mastery\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I need to design a complex system, how do I ensure all parts integrate?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Systems Thinking\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm thriving in this fast-paced environment, how can I sustain it?",
+    "output": "Energy State: Situational\n- Problem Category: High-Demand Environment (thriving)\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm incredibly curious about this topic, I want to learn everything.",
+    "output": "Energy State: Emotional State\n- Problem Category: Intense Curiosity\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I want to take the lead on this project and inspire my team.",
+    "output": "Energy State: Behavioral State\n- Problem Category: Leadership / Guiding\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have many disparate ideas, how can I synthesize them into a breakthrough concept?",
+    "output": "Energy State: Cognitive State\n- Problem Category: Creative Synthesis\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm in a high-pressure situation, but I need to maintain strategic calm.",
+    "output": "Energy State: Emotional State\n- Problem Category: Strategic Calm\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "How do I facilitate complex collaboration with diverse team members effectively?",
+    "output": "Energy State: Situational\n- Problem Category: Complex Collaboration\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm struggling to get started on my to-do list. What's a good first step when everything feels equally important?",
+    "output": "Energy State: Daily Living\n- Problem Category: Productivity / Focus\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "The noise and lights in this office are making me feel completely frazzled. How can I calm my nervous system right now?",
+    "output": "Energy State: Emotional State\n- Problem Category: Sensory Overload\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel like my partner isn't really listening to me sometimes. How can I express myself more clearly without getting frustrated?",
+    "output": "Energy State: Relationships\n- Problem Category: Communication\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm so tired but my mind won't switch off at night. What are some wind-down routines that actually work?",
+    "output": "Energy State: Health & Wellness\n- Problem Category: Sleep\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm completely burnt out and can't seem to recharge. What's the fastest way to get some energy back when I feel drained?",
+    "output": "Energy State: Self-Care\n- Problem Category: Burnout / Exhaustion\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I just got a promotion, but I feel like I don't deserve it and everyone will find out I'm not good enough. How do I combat this feeling?",
+    "output": "Energy State: Career & Ambition\n- Problem Category: Imposter Syndrome\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "After social events, I feel completely drained and need days to recover. Is this normal, and how can I manage social energy better?",
+    "output": "Energy State: Social Interactions\n- Problem Category: Masking / Social Fatigue\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I go from calm to intensely angry or sad in a snap. How can I better manage these sudden, overwhelming mood swings?",
+    "output": "Energy State: Emotional State\n- Problem Category: Emotional Dysregulation\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My period cramps are making me feel miserable and irritable. Are there any natural remedies or stretches to ease the pain and mood?",
+    "output": "Energy State: Health & Wellness\n- Problem Category: Period Pain / PMS\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I have so many ideas but never enough time to execute them. How can I plan my day more effectively?",
+    "output": "Energy State: Daily Living\n- Problem Category: Time Management\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel completely uninspired lately. How can I reignite my creativity and find new ideas?",
+    "output": "Energy State: Creativity\n- Problem Category: Blocks / Inspiration\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm struggling with how I feel about my body today. What are some quick ways to practice self-compassion?",
+    "output": "Energy State: Self-Care\n- Problem Category: Body Image\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Someone just criticized my work, and I feel physically ill and devastated. How do I cope with such intense emotional reactions to criticism?",
+    "output": "Energy State: Emotional State\n- Problem Category: Rejection Sensitivity\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I notice my mood drastically changes around ovulation and before my period. How can I track and better manage these hormonal shifts?",
+    "output": "Energy State: Health & Wellness\n- Problem Category: Hormonal Fluctuations\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I struggle to say 'no' without feeling guilty. How can I set healthier boundaries in my relationships?",
+    "output": "Energy State: Relationships\n- Problem Category: Setting Boundaries\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm feeling stuck in my current job and thinking about a career change, but it feels daunting. Where do I even start?",
+    "output": "Energy State: Career & Ambition\n- Problem Category: Career Change\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I can't stop replaying conversations in my head and worrying about what I said. How can I break this cycle of overthinking?",
+    "output": "Energy State: Daily Living\n- Problem Category: Overthinking / Rumination\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Life feels a bit dull and overwhelming lately. What are some small, easy ways to bring more joy into my daily routine?",
+    "output": "Energy State: Self-Care\n- Problem Category: Finding Joy\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I know I should eat better and exercise, but getting myself to actually do it feels impossible. Any tips for building healthy habits with low motivation?",
+    "output": "Energy State: Health & Wellness\n- Problem Category: Executive Function (Diet/Exercise)\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel like my brain is just static, and I can't process anything. I need to disengage but don't know how without completely checking out.",
+    "output": "Energy State: Emotional State\n- Problem Category: Meltdown / Shutdown (Internal)\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My sex drive has completely dropped lately, and I'm worried. What could be causing it, and how can I get it back?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Libido / Desire\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I've been experiencing pain during intercourse, and it's making me anxious about intimacy. What could be going on, and should I see a doctor?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Pain During Sex\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I struggle to orgasm during sex, even though I feel aroused. Are there ways to improve my ability to climax?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Orgasm / Pleasure\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm looking for a new birth control method that won't mess with my mood or hormones. What are some non-hormonal options?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Contraception\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel really self-conscious about my body during sex. How can I feel more confident and present with my partner?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Body Image & Sex\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "It's hard for me to talk about my sexual needs and desires with my partner. How can I start these conversations?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Communication & Sex\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm a survivor of sexual trauma, and it impacts my ability to feel safe and enjoy intimacy. What resources are available for healing?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Sexual Trauma / Healing\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My desire changes so much throughout my menstrual cycle. How can I better understand and work with my natural rhythm?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Menstrual Cycle & Sex\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm experiencing vaginal dryness, which makes sex uncomfortable. What are some effective remedies or solutions?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Vaginal Dryness\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm worried I might have an STI after a recent encounter. What are the common symptoms, and where can I get tested discreetly?",
+    "output": "Energy State: Sexual Health\n- Problem Category: STI / STD Concerns\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "After having a baby, sex feels completely different and sometimes painful. How long does it take to feel \"normal\" again, and what can help?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Postpartum Sex\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "My sensory sensitivities make certain sexual acts overwhelming or uncomfortable. How can I communicate this to my partner and find what works for me?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Neurodiversity & Sex (Sensory)\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I feel really insecure about my performance or attractiveness during sex. How can I build my sexual confidence?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Low Confidence in Bed\n- Cognitive Energy Level: MediumMedium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm experiencing significant mood swings and anxiety from my birth control. Are these normal side effects, and should I switch?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Hormonal Birth Control Side Effects\n- Cognitive Energy Level: High Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I'm curious about exploring new sexual fantasies or kinks but don't know how to bring it up with my partner. Any tips for honest communication?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Sexual Fantasies / Exploration\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "Is it safe to have sex during pregnancy? Are there any positions or precautions I should be aware of?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Pregnancy & Sex\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I think I might have pelvic floor dysfunction affecting my sexual health. What are the signs, and who should I see for help?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Pelvic Floor Health\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "As I get older, my sexual experiences are changing. How can I continue to have a fulfilling sex life through perimenopause and beyond?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Ageing & Sex\n- Cognitive Energy Level: Medium Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I want to make sure I'm always practicing enthusiastic consent, both giving and receiving. What does truly clear consent look like?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Consent\n- Cognitive Energy Level: Low Cognitive Energy"
+  },
+  {
+    "instruction": "You are a neurodiversity assistant. Classify the user's problem into three categories: Energy State, Problem Category, and Cognitive Energy Level.",
+    "input": "I started a new medication (e.g., antidepressants) and my libido has plummeted. Is this a common side effect, and what can I do about it?",
+    "output": "Energy State: Sexual Health\n- Problem Category: Medication & Libido\n- Cognitive Energy Level: High Cognitive Energy"
+  }
+]
