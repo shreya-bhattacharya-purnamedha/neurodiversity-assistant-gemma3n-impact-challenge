@@ -1,1387 +1,1663 @@
-{
-  "Box Breathing": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "5-4-3-2-1 Grounding": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 5-Minute Rule": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Task Chunking": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "\"I Feel\" Statements": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Behavioral Activation": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Brain Dump": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Progressive Muscle Relaxation": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mindful Listening": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The Pomodoro Technique": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Gratitude Journaling": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visualization": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Temperature Change": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Affirmations": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Scheduled Worry Time": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Sensory soothing kit": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Body Scan Meditation": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Square Breathing": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Thought Challenging": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Anchoring": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Urge Surfing\" Technique": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Habit Stacking": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Time Blocking": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Single-Tasking": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Affirmative Journaling": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Self-Compassion Break": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Expressive Writing": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The STOP Skill": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mindful Eating": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Active Listening": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Reframing": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mirror Work": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Nature Immersion": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Values Clarification": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "The 10-Minute Declutter": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Positive Self-Talk": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Gentle Stretching": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Compassionate Reappraisal": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Do Nothing\" Practice": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Boundary Setting": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mood Tracking": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Journaling for Insights": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "Visual Cues": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"One-Minute Rule\"": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Sensory Input Adjustment": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Skill Building": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Reflective Questioning": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "The Rain Practice": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Cognitive Diffusion": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Why?\" Chain": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "Guided Imagery": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mini-Break Movement": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Problem-Solving Steps": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "Mindful Walking": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Worst-Case Scenario\"": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Energy Audit": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Digital Detox": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Acceptance": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Rule of 3\"": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Belly Breathing": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Expressing Needs": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Cognitive Defusion from Urges": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Value-Driven Action": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"Delete, Delegate, Do\" Rule": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "S.M.A.R.T. Goals": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Habit Reversal Training": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"Okay\" Hand Signal": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Body Doubling\" Hack": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Sensory Stimming Kits": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Hyperfocus \"Leveraging\"": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "The \"Pre-computation\" Hack": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Visual Checklists (for everything)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "\"Nope, Not Today Boundaries\"": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Task Batching by Energy Level": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Environmental \"Sensory Zoning\"": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Autistic Crayon Box\" Analogy": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "Shutdown/Meltown Recovery Plan": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"Transition Object\"": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Info Dumping (with consent)": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task \"Gamification\"": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Masking Break Scheduling": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"Fidget Tool Kit\" (Everywhere)": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Sensory Diet Planning": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Spoons Metaphor Application": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Anchor Clothes": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task \"Time-Blocking\" (Visual)": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Parallel Play for Adults": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Noise Masking\" Strategy": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Interest-Led Learning for Chores": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Recharge Zone Creation": [
-    "Situational",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"External Brain\" System": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Routine Anchors (Fixed Points)": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Comfort Food (Sensory Focused)": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Permission to Be Imperfect": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Mini-Exchanges (Social)": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Sensory Check-in\"": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Interest-Based Rewards": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"Open Tabs\" Method": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Headphone Signals": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Parallel Play Chores": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"Task Interleaving\" Hack": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Weighted Lap Pads/Blankets": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Stimming in Disguise": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Info Dump Notes\"": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Micro-Rewards for Tiny Tasks": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Auditory Landscapes": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Routine Resets": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"Decision Fatigue Prevention\"": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Visual Timers for Transitions": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Sensory Safe Spaces": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Permission to Pivot": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The \"Fidget Bag/Pouch\"": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Parallel Tasking (with Media)": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Scheduled Decompression": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Verbal Processing Out Loud": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "The \"Do-One-Thing\" Rule": [
-    "Behavioral",
-    "Task Paralysis",
-    "Low"
-  ],
-  "Sensory Storytelling": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Alarm Chain\"": [
-    "Cognitive",
-    "Task Paralysis",
-    "Low"
-  ],
-  "Comfort Shows/Media": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Visual To-Do Boards": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Right Time' Inventory": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Sensory Play (Adult Version)": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Hyper-organization (for specific areas)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Scheduled 'Downtime'": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Mental Filter' for Input": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Specific Purpose Outfits": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The 'Mini-Break' Rule (True Break)": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Auditory Processing Accommodations": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Reset' Food/Drink": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task Chaining (Sensory-Linked)": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'I-Spy' Grounding Game": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Pre-emptive Social Scripting": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Energy Budget' Visual": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Deep Pressure Hugs (Self or Other)": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Brain Dump' for Projects": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Auditory Boundaries (Music/Noise)": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Task Paralysis' Toolkit": [
-    "Behavioral",
-    "Task Paralysis",
-    "Low"
-  ],
-  "The \"No Zero Days\" Rule": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Sensory Swaps": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Context Switching Reduction": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Done Is Better Than Perfect' Mantra": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual Countdown/Progress Bars": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'Looping Thought' Release": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Comfort Object Integration": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Five Whys' for Meltdowns/Shutdowns": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Pre-Prepared Snacks/Meals": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Soundscape Customization": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Done List'": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Physical Task Cues": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Sensory-Seeking Movement": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Hard Stop' Rule": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Social Recharge Plan": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Pre-Decision Making (Outfits, Meals)": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The 'Sensory Shower/Bath'": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Comfort Colors/Lighting": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'If-Then' Planning": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "Special Interest Deep Dive (Planned)": [
-    "Behavioral",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "The \"Clean Enough\" Standard": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Sensory Filtering Tools": [
-    "Situational",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Accountability Buddy' (Low Stakes)": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Task Migration": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Comfort Reading/Listening": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Buffer Time' Rule": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Object Permanence Reminders": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Planned Escapes (Social)": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Sensory Safe' Outfit": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Hyperfocus 'Scheduling'": [
-    "Behavioral",
-    "Sustained Focus",
-    "High"
-  ],
-  "The 'Minimal Prep' Meal Strategy": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Weighted Compression Vests/Clothing": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Special Interest as De-stressor": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Walk Away' Technique": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Body Scan (Sensory Focus)": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'One Item at a Time' Cleanup": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Visual Schedule/Picture Calendar": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Task 'Chunking' by Location": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "The 'Sensory Reset' Station": [
-    "Situational",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Brain to Page' Dump (Structured)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"Weighted Eye Mask\"": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task Pairing (Dreaded + Enjoyed)": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Pre-emptive Problem Solving": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "The 'Mental Vacation' Mini-Break": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Sensory-Specific Hydration": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual Reminder Alarms": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Micro-Declutter' Strategy": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Low-Demand Social Scripts": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Sensory Scavenger Hunt'": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Routine Customization": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Interest-Based Productivity Tools": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'Noise Cancelling' Habit": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Emotional Contagion Shielding": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Default Outfit'": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Special Interest as Safe Space": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Task 'Micro-Looping'": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "The 'Brain to Text' Dump": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Sensory Scan' Before Entry": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Flexible Planning (with Backup Plans)": [
-    "Cognitive",
-    "Complex Problem Solving",
-    "High"
-  ],
-  "The 'Rejection Sensitivity' Shield": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Stim Toy Rotation\"": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Task 'Brain Dumping' (Pre-Sleep)": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Mini-Victory' Celebration": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "Sensory-Seeking Food Textures": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'One In, One Out' Declutter": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Scheduled 'Rabbit Holes'": [
-    "Behavioral",
-    "Sustained Focus",
-    "High"
-  ],
-  "The 'Social Battery' Visual": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Movement for Focus": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Sensory Audit' of Spaces": [
-    "Situational",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Pre-Written Scripts (for difficult calls)": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Transition Playlist'": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual 'No-Go' Zones": [
-    "Situational",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Hyper-fixation as Research Tool": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "The 'Everything Drawer/Box'": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Sensory-Specific Personal Care": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Future Self' Motivation": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "Pattern Recognition for Triggers": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Sensory Friendly' Meetup": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Micro-Movement Breaks (Subtle)": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Just 5 Minutes' Jumpstart": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The \"Sensory Check-Out\" Routine": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Interest-Based Scheduling": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Visual Task Completion": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'Safe Food' Stash": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The 'Sensory Friendly' Playlist": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Planned 'Info Dumps' (To Self)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Body Doubling' App/Community": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'No' Script Practice": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Sensory Calming Scents": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Micro-Breaks for Special Interest": [
-    "Behavioral",
-    "Sustained Focus",
-    "High"
-  ],
-  "The 'Brain to Whiteboard' Dump": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Sensory Bag' for Outings": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Scheduled 'Unmasking' Time": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Future Me' Task List": [
-    "Cognitive",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Comfort Texture Items": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'One Thing Started' Rule": [
-    "Behavioral",
-    "Task Paralysis",
-    "Low"
-  ],
-  "Body Language 'Reads' (for self)": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual Countdown Timers (Large)": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Auditory Calming Environment": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Just for Today' Mindset": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The \"Weighted Plushie/Stuffed Animal\"": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Sensory-Safe Lighting": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Done for the Day' Signal": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Visual Rule Boards/Charts": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Hyper-fixation' Planner": [
-    "Cognitive",
-    "Sustained Focus",
-    "High"
-  ],
-  "Auditory Cues for Transitions": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Emotional Comfort' Playlist": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Pre-Packed 'Go Bags'": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The 'Sensory Friendly' Background": [
-    "Situational",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Mini-Meditations (Sensory Focus)": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'External Voice' for Tasks": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "Comfort Objects (Pocket-Sized)": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'No Pressure' Social Loop": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual Reminders for Self-Care": [
-    "Behavioral",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'Permission to Reset' Card": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Auditory Cues for Safety": [
-    "Situational",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Breakdown Buddy' Protocol": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task Visualization (Detailed)": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "The 'Sensory Snack Box'": [
-    "Behavioral",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Pre-computation for Social Events": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The \"Weighted Vest/Scarf\"": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Task 'Splitting' (by energy)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Sensory Shower/Bath' Reset": [
-    "Emotional",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Visual Time Management (Analog)": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "Comfort Texture Clothing Prep": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "The 'Emergency Snack' Kit": [
-    "Behavioral",
-    "Decision Fatigue",
-    "Low"
-  ],
-  "Scheduled 'Do Nothing' Time": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'One Thing Out' Rule (Declutter)": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Sensory-Focused Self-Care Routine": [
-    "Behavioral",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Social Prep' Checklist": [
-    "Cognitive",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Hyperfocus 'Timer Traps'": [
-    "Cognitive",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "The 'Affirmation Anchor'": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "Visual 'Energy Bar'": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "The 'Sensory Bin' (Adult Version)": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Rule of Three' (Daily)": [
-    "Cognitive",
-    "Overwhelm / Burnout",
-    "Low"
-  ],
-  "Verbal Instructions (for self)": [
-    "Cognitive",
-    "Procrastination",
-    "Low"
-  ],
-  "The 'Interest-Based' Environment": [
-    "Situational",
-    "Optimizing Productivity",
-    "High"
-  ],
-  "Scheduled 'Wiggle Time'": [
-    "Behavioral",
-    "Lack of Focus",
-    "Medium"
-  ],
-  "The 'Compassionate Self-Talk' Script": [
-    "Emotional",
-    "Anxiety / Stress",
-    "Medium"
-  ],
-  "The 'Out of Sight, Out of Mind' Solution": [
-    "Cognitive",
-    "Lack of Focus",
-    "Medium"
-  ]
-}
+[
+  {
+    "Self_Regulation_Technique_Name": "Box Breathing",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "5-4-3-2-1 Grounding",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 5-Minute Rule",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Chunking",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "\"I Feel\" Statements",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Behavioral Activation",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Brain Dump",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Progressive Muscle Relaxation",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mindful Listening",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The Pomodoro Technique",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Gratitude Journaling",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visualization",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Temperature Change",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Affirmations",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled Worry Time",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory soothing kit",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Body Scan Meditation",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Square Breathing",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Thought Challenging",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Anchoring",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Urge Surfing\" Technique",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Habit Stacking",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Time Blocking",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Single-Tasking",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Affirmative Journaling",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Self-Compassion Break",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Expressive Writing",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The STOP Skill",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mindful Eating",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Active Listening",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Reframing",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mirror Work",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Nature Immersion",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Values Clarification",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 10-Minute Declutter",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Positive Self-Talk",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Gentle Stretching",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Compassionate Reappraisal",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Do Nothing\" Practice",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Boundary Setting",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mood Tracking",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Journaling for Insights",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Cues",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"One-Minute Rule\"",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Input Adjustment",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Skill Building",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Reflective Questioning",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The Rain Practice",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Cognitive Diffusion",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Why?\" Chain",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Guided Imagery",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mini-Break Movement",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Problem-Solving Steps",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mindful Walking",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Worst-Case Scenario\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Energy Audit",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Digital Detox",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Acceptance",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Rule of 3\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Belly Breathing",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Expressing Needs",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Cognitive Defusion from Urges",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Value-Driven Action",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Delete, Delegate, Do\" Rule",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "S.M.A.R.T. Goals",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Habit Reversal Training",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Okay\" Hand Signal",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Body Doubling\" Hack",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Stimming Kits",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Hyperfocus \"Leveraging\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Pre-computation\" Hack",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Checklists (for everything)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "\"Nope, Not Today Boundaries\"",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Batching by Energy Level",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Environmental \"Sensory Zoning\"",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Autistic Crayon Box\" Analogy",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Shutdown/Meltown Recovery Plan",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Transition Object\"",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Info Dumping (with consent)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task \"Gamification\"",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Masking Break Scheduling",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Fidget Tool Kit\" (Everywhere)",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Diet Planning",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Spoons Metaphor Application",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Anchor Clothes",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task \"Time-Blocking\" (Visual)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Parallel Play for Adults",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Noise Masking\" Strategy",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Interest-Led Learning for Chores",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Recharge Zone Creation",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"External Brain\" System",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Routine Anchors (Fixed Points)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Food (Sensory Focused)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Permission to Be Imperfect",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mini-Exchanges (Social)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Sensory Check-in\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Interest-Based Rewards",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Open Tabs\" Method",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Headphone Signals",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Parallel Play Chores",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Task Interleaving\" Hack",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Weighted Lap Pads/Blankets",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Stimming in Disguise",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Info Dump Notes\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Micro-Rewards for Tiny Tasks",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Landscapes",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Routine Resets",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Decision Fatigue Prevention\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Timers for Transitions",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Safe Spaces",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Permission to Pivot",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Fidget Bag/Pouch\"",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Parallel Tasking (with Media)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled Decompression",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Verbal Processing Out Loud",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Do-One-Thing\" Rule",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Task Paralysis",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Storytelling",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Alarm Chain\"",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Task Paralysis",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Shows/Media",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual To-Do Boards",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Right Time' Inventory",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Play (Adult Version)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Hyper-organization (for specific areas)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled 'Downtime'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Mental Filter' for Input",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Specific Purpose Outfits",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Mini-Break' Rule (True Break)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Processing Accommodations",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Reset' Food/Drink",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Chaining (Sensory-Linked)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'I-Spy' Grounding Game",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-emptive Social Scripting",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Energy Budget' Visual",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Deep Pressure Hugs (Self or Other)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Brain Dump' for Projects",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Boundaries (Music/Noise)",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Task Paralysis' Toolkit",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Task Paralysis",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"No Zero Days\" Rule",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Swaps",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Context Switching Reduction",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Done Is Better Than Perfect' Mantra",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Countdown/Progress Bars",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Looping Thought' Release",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Object Integration",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Five Whys' for Meltdowns/Shutdowns",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-Prepared Snacks/Meals",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Soundscape Customization",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Done List'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Physical Task Cues",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Seeking Movement",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Hard Stop' Rule",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Social Recharge Plan",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-Decision Making (Outfits, Meals)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Shower/Bath'",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Colors/Lighting",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'If-Then' Planning",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Special Interest Deep Dive (Planned)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Clean Enough\" Standard",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Filtering Tools",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Accountability Buddy' (Low Stakes)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Migration",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Reading/Listening",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Buffer Time' Rule",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Object Permanence Reminders",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Planned Escapes (Social)",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Safe' Outfit",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Hyperfocus 'Scheduling'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Minimal Prep' Meal Strategy",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Weighted Compression Vests/Clothing",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Special Interest as De-stressor",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Walk Away' Technique",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Body Scan (Sensory Focus)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'One Item at a Time' Cleanup",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Schedule/Picture Calendar",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task 'Chunking' by Location",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Reset' Station",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Brain to Page' Dump (Structured)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Weighted Eye Mask\"",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Pairing (Dreaded + Enjoyed)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-emptive Problem Solving",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Mental Vacation' Mini-Break",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Specific Hydration",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Reminder Alarms",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Micro-Declutter' Strategy",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Low-Demand Social Scripts",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Scavenger Hunt'",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Routine Customization",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Interest-Based Productivity Tools",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Noise Cancelling' Habit",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Emotional Contagion Shielding",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Default Outfit'",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Special Interest as Safe Space",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task 'Micro-Looping'",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Brain to Text' Dump",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Scan' Before Entry",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Flexible Planning (with Backup Plans)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Rejection Sensitivity' Shield",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Stim Toy Rotation\"",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task 'Brain Dumping' (Pre-Sleep)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Mini-Victory' Celebration",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Seeking Food Textures",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'One In, One Out' Declutter",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled 'Rabbit Holes'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Social Battery' Visual",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Movement for Focus",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Audit' of Spaces",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-Written Scripts (for difficult calls)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Transition Playlist'",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual 'No-Go' Zones",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Hyper-fixation as Research Tool",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Everything Drawer/Box'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Specific Personal Care",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Future Self' Motivation",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pattern Recognition for Triggers",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Meetup",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Micro-Movement Breaks (Subtle)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Just 5 Minutes' Jumpstart",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Sensory Check-Out\" Routine",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Interest-Based Scheduling",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Task Completion",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Safe Food' Stash",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Playlist",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Planned 'Info Dumps' (To Self)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Body Doubling' App/Community",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'No' Script Practice",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory Calming Scents",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Micro-Breaks for Special Interest",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Brain to Whiteboard' Dump",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Bag' for Outings",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled 'Unmasking' Time",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Future Me' Task List",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Texture Items",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'One Thing Started' Rule",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Task Paralysis",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Body Language 'Reads' (for self)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Countdown Timers (Large)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Calming Environment",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Just for Today' Mindset",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Weighted Plushie/Stuffed Animal\"",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Safe Lighting",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Done for the Day' Signal",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Rule Boards/Charts",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Hyper-fixation' Planner",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Cues for Transitions",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Emotional Comfort' Playlist",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-Packed 'Go Bags'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Friendly' Background",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Mini-Meditations (Sensory Focus)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'External Voice' for Tasks",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Objects (Pocket-Sized)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'No Pressure' Social Loop",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Reminders for Self-Care",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Permission to Reset' Card",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Auditory Cues for Safety",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Breakdown Buddy' Protocol",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task Visualization (Detailed)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Snack Box'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Pre-computation for Social Events",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The \"Weighted Vest/Scarf\"",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Task 'Splitting' (by energy)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Shower/Bath' Reset",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual Time Management (Analog)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Comfort Texture Clothing Prep",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Emergency Snack' Kit",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Decision Fatigue",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled 'Do Nothing' Time",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'One Thing Out' Rule (Declutter)",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Sensory-Focused Self-Care Routine",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Social Prep' Checklist",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Hyperfocus 'Timer Traps'",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Affirmation Anchor'",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Visual 'Energy Bar'",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Sensory Bin' (Adult Version)",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Rule of Three' (Daily)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Verbal Instructions (for self)",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Low"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Interest-Based' Environment",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High"
+  },
+  {
+    "Self_Regulation_Technique_Name": "Scheduled 'Wiggle Time'",
+    "User_Energy_States": "Behavioral",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Compassionate Self-Talk' Script",
+    "User_Energy_States": "Emotional",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium"
+  },
+  {
+    "Self_Regulation_Technique_Name": "The 'Out of Sight, Out of Mind' Solution",
+    "User_Energy_States": "Cognitive",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium"
+  }
+]
