@@ -1,0 +1,1387 @@
+{
+  "Box Breathing": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "5-4-3-2-1 Grounding": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 5-Minute Rule": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Task Chunking": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "\"I Feel\" Statements": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Behavioral Activation": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Brain Dump": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Progressive Muscle Relaxation": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mindful Listening": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The Pomodoro Technique": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Gratitude Journaling": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visualization": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Temperature Change": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Affirmations": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Scheduled Worry Time": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Sensory soothing kit": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Body Scan Meditation": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Square Breathing": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Thought Challenging": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Anchoring": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Urge Surfing\" Technique": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Habit Stacking": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Time Blocking": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Single-Tasking": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Affirmative Journaling": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Self-Compassion Break": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Expressive Writing": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The STOP Skill": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mindful Eating": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Active Listening": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Reframing": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mirror Work": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Nature Immersion": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Values Clarification": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "The 10-Minute Declutter": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Positive Self-Talk": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Gentle Stretching": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Compassionate Reappraisal": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Do Nothing\" Practice": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Boundary Setting": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mood Tracking": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Journaling for Insights": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "Visual Cues": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"One-Minute Rule\"": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Sensory Input Adjustment": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Skill Building": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Reflective Questioning": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "The Rain Practice": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Cognitive Diffusion": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Why?\" Chain": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "Guided Imagery": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mini-Break Movement": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Problem-Solving Steps": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "Mindful Walking": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Worst-Case Scenario\"": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Energy Audit": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Digital Detox": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Acceptance": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Rule of 3\"": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Belly Breathing": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Expressing Needs": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Cognitive Defusion from Urges": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Value-Driven Action": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"Delete, Delegate, Do\" Rule": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "S.M.A.R.T. Goals": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Habit Reversal Training": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"Okay\" Hand Signal": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Body Doubling\" Hack": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Sensory Stimming Kits": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Hyperfocus \"Leveraging\"": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "The \"Pre-computation\" Hack": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Visual Checklists (for everything)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "\"Nope, Not Today Boundaries\"": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Task Batching by Energy Level": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Environmental \"Sensory Zoning\"": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Autistic Crayon Box\" Analogy": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "Shutdown/Meltown Recovery Plan": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"Transition Object\"": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Info Dumping (with consent)": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task \"Gamification\"": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Masking Break Scheduling": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"Fidget Tool Kit\" (Everywhere)": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Sensory Diet Planning": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Spoons Metaphor Application": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Anchor Clothes": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task \"Time-Blocking\" (Visual)": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Parallel Play for Adults": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Noise Masking\" Strategy": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Interest-Led Learning for Chores": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Recharge Zone Creation": [
+    "Situational",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"External Brain\" System": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Routine Anchors (Fixed Points)": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Comfort Food (Sensory Focused)": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Permission to Be Imperfect": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Mini-Exchanges (Social)": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Sensory Check-in\"": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Interest-Based Rewards": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"Open Tabs\" Method": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Headphone Signals": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Parallel Play Chores": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"Task Interleaving\" Hack": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Weighted Lap Pads/Blankets": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Stimming in Disguise": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Info Dump Notes\"": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Micro-Rewards for Tiny Tasks": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Auditory Landscapes": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Routine Resets": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"Decision Fatigue Prevention\"": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Visual Timers for Transitions": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Sensory Safe Spaces": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Permission to Pivot": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The \"Fidget Bag/Pouch\"": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Parallel Tasking (with Media)": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Scheduled Decompression": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Verbal Processing Out Loud": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "The \"Do-One-Thing\" Rule": [
+    "Behavioral",
+    "Task Paralysis",
+    "Low"
+  ],
+  "Sensory Storytelling": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Alarm Chain\"": [
+    "Cognitive",
+    "Task Paralysis",
+    "Low"
+  ],
+  "Comfort Shows/Media": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Visual To-Do Boards": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Right Time' Inventory": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Sensory Play (Adult Version)": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Hyper-organization (for specific areas)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Scheduled 'Downtime'": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Mental Filter' for Input": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Specific Purpose Outfits": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The 'Mini-Break' Rule (True Break)": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Auditory Processing Accommodations": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Reset' Food/Drink": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task Chaining (Sensory-Linked)": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'I-Spy' Grounding Game": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Pre-emptive Social Scripting": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Energy Budget' Visual": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Deep Pressure Hugs (Self or Other)": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Brain Dump' for Projects": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Auditory Boundaries (Music/Noise)": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Task Paralysis' Toolkit": [
+    "Behavioral",
+    "Task Paralysis",
+    "Low"
+  ],
+  "The \"No Zero Days\" Rule": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Sensory Swaps": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Context Switching Reduction": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Done Is Better Than Perfect' Mantra": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual Countdown/Progress Bars": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'Looping Thought' Release": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Comfort Object Integration": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Five Whys' for Meltdowns/Shutdowns": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Pre-Prepared Snacks/Meals": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Soundscape Customization": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Done List'": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Physical Task Cues": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Sensory-Seeking Movement": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Hard Stop' Rule": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Social Recharge Plan": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Pre-Decision Making (Outfits, Meals)": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The 'Sensory Shower/Bath'": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Comfort Colors/Lighting": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'If-Then' Planning": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "Special Interest Deep Dive (Planned)": [
+    "Behavioral",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "The \"Clean Enough\" Standard": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Sensory Filtering Tools": [
+    "Situational",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Accountability Buddy' (Low Stakes)": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Task Migration": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Comfort Reading/Listening": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Buffer Time' Rule": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Object Permanence Reminders": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Planned Escapes (Social)": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Sensory Safe' Outfit": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Hyperfocus 'Scheduling'": [
+    "Behavioral",
+    "Sustained Focus",
+    "High"
+  ],
+  "The 'Minimal Prep' Meal Strategy": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Weighted Compression Vests/Clothing": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Special Interest as De-stressor": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Walk Away' Technique": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Body Scan (Sensory Focus)": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'One Item at a Time' Cleanup": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Visual Schedule/Picture Calendar": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Task 'Chunking' by Location": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "The 'Sensory Reset' Station": [
+    "Situational",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Brain to Page' Dump (Structured)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"Weighted Eye Mask\"": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task Pairing (Dreaded + Enjoyed)": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Pre-emptive Problem Solving": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "The 'Mental Vacation' Mini-Break": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Sensory-Specific Hydration": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual Reminder Alarms": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Micro-Declutter' Strategy": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Low-Demand Social Scripts": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Sensory Scavenger Hunt'": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Routine Customization": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Interest-Based Productivity Tools": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'Noise Cancelling' Habit": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Emotional Contagion Shielding": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Default Outfit'": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Special Interest as Safe Space": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Task 'Micro-Looping'": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "The 'Brain to Text' Dump": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Sensory Scan' Before Entry": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Flexible Planning (with Backup Plans)": [
+    "Cognitive",
+    "Complex Problem Solving",
+    "High"
+  ],
+  "The 'Rejection Sensitivity' Shield": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Stim Toy Rotation\"": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Task 'Brain Dumping' (Pre-Sleep)": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Mini-Victory' Celebration": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "Sensory-Seeking Food Textures": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'One In, One Out' Declutter": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Scheduled 'Rabbit Holes'": [
+    "Behavioral",
+    "Sustained Focus",
+    "High"
+  ],
+  "The 'Social Battery' Visual": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Movement for Focus": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Sensory Audit' of Spaces": [
+    "Situational",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Pre-Written Scripts (for difficult calls)": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Transition Playlist'": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual 'No-Go' Zones": [
+    "Situational",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Hyper-fixation as Research Tool": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "The 'Everything Drawer/Box'": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Sensory-Specific Personal Care": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Future Self' Motivation": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "Pattern Recognition for Triggers": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Sensory Friendly' Meetup": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Micro-Movement Breaks (Subtle)": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Just 5 Minutes' Jumpstart": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The \"Sensory Check-Out\" Routine": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Interest-Based Scheduling": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Visual Task Completion": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'Safe Food' Stash": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The 'Sensory Friendly' Playlist": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Planned 'Info Dumps' (To Self)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Body Doubling' App/Community": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'No' Script Practice": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Sensory Calming Scents": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Micro-Breaks for Special Interest": [
+    "Behavioral",
+    "Sustained Focus",
+    "High"
+  ],
+  "The 'Brain to Whiteboard' Dump": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Sensory Bag' for Outings": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Scheduled 'Unmasking' Time": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Future Me' Task List": [
+    "Cognitive",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Comfort Texture Items": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'One Thing Started' Rule": [
+    "Behavioral",
+    "Task Paralysis",
+    "Low"
+  ],
+  "Body Language 'Reads' (for self)": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual Countdown Timers (Large)": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Auditory Calming Environment": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Just for Today' Mindset": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The \"Weighted Plushie/Stuffed Animal\"": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Sensory-Safe Lighting": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Done for the Day' Signal": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Visual Rule Boards/Charts": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Hyper-fixation' Planner": [
+    "Cognitive",
+    "Sustained Focus",
+    "High"
+  ],
+  "Auditory Cues for Transitions": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Emotional Comfort' Playlist": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Pre-Packed 'Go Bags'": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The 'Sensory Friendly' Background": [
+    "Situational",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Mini-Meditations (Sensory Focus)": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'External Voice' for Tasks": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "Comfort Objects (Pocket-Sized)": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'No Pressure' Social Loop": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual Reminders for Self-Care": [
+    "Behavioral",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'Permission to Reset' Card": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Auditory Cues for Safety": [
+    "Situational",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Breakdown Buddy' Protocol": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task Visualization (Detailed)": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "The 'Sensory Snack Box'": [
+    "Behavioral",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Pre-computation for Social Events": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The \"Weighted Vest/Scarf\"": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Task 'Splitting' (by energy)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Sensory Shower/Bath' Reset": [
+    "Emotional",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Visual Time Management (Analog)": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "Comfort Texture Clothing Prep": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "The 'Emergency Snack' Kit": [
+    "Behavioral",
+    "Decision Fatigue",
+    "Low"
+  ],
+  "Scheduled 'Do Nothing' Time": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'One Thing Out' Rule (Declutter)": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Sensory-Focused Self-Care Routine": [
+    "Behavioral",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Social Prep' Checklist": [
+    "Cognitive",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Hyperfocus 'Timer Traps'": [
+    "Cognitive",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "The 'Affirmation Anchor'": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "Visual 'Energy Bar'": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "The 'Sensory Bin' (Adult Version)": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Rule of Three' (Daily)": [
+    "Cognitive",
+    "Overwhelm / Burnout",
+    "Low"
+  ],
+  "Verbal Instructions (for self)": [
+    "Cognitive",
+    "Procrastination",
+    "Low"
+  ],
+  "The 'Interest-Based' Environment": [
+    "Situational",
+    "Optimizing Productivity",
+    "High"
+  ],
+  "Scheduled 'Wiggle Time'": [
+    "Behavioral",
+    "Lack of Focus",
+    "Medium"
+  ],
+  "The 'Compassionate Self-Talk' Script": [
+    "Emotional",
+    "Anxiety / Stress",
+    "Medium"
+  ],
+  "The 'Out of Sight, Out of Mind' Solution": [
+    "Cognitive",
+    "Lack of Focus",
+    "Medium"
+  ]
+}

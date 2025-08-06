@@ -1,0 +1,992 @@
+[
+  {
+    "Sample_User_Query": "I feel so overwhelmed and can't focus.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Anxiety / Stress",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have a big project due but I can't start.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Procrastination",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I had a fight with my partner and feel awful.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Conflict",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just feel sad and have no energy.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Low Mood",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My mind is racing and I can't focus on one thing.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Lack of Focus",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My brain feels like mush, I can't think at all.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Overwhelm / Burnout",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm just staring at my screen, nothing is getting done",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Task Paralysis",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I don't even care what to do, just tell me.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Decision Fatigue / Apathy",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My head feels fuzzy and overstimulated, I need quiet.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Sensory Overload (internal)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Everything is annoying me, I just want to be left alone",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Irritability / Frustration (low tolerance)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I haven't even eaten or gotten dressed today, I'm stuck",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Basic Self-Care Lapse",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Even making a cup of tea feels like too much effort.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Simple Task Overwhelm",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just feel... flat. No emotions, no motivation.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Listlessness",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "It's a free day and I don't know what to do, feeling lost.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Unstructured Time Overwhelm",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm just going to go back to sleep and ignore everything.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Avoidance (extreme)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I keep getting distracted from my work, jumping between tabs.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Mild Procrastination",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm just feeling generally stressed about my to-do list.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "General Stress / Annoyance",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My morning routine feels off, I need to get back on track.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Routine Adjustment",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I need to pick a new project to start, but there are too many options.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Minor Decision Making",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "This background noise is a bit annoying, hard to concentrate.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Mild Sensory Discomfort",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just don't feel like doing anything productive, but I should.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Lack of Motivation",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I need to tell my friend something important but I'm nervous how they'll react.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Communication Challenges",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm researching, but there's just so much information, I feel stuck.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Information Overload",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm so bored, I need something to do but nothing sounds good.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Boredom",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have a work event tonight and I'm already feeling tired thinking about it.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Pre-Social Event Jitters",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm hyperfocused on this, how do I make sure I don't lose track of time?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Intense Focus / Hyperfocus",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I want to maximize my productivity today, what's the best way?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Optimizing Productivity",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm so excited about this project, how can I sustain this energy?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Highly Motivated / Excited",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have a really complex problem at work, how can I approach it systematically?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Complex Problem Solving",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel great today, I want to connect with friends more effectively.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Social Engagement (desired)",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm ready to learn a new complex skill, where should I start?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Skill Development",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My mind is buzzing with ideas but I can't organize them into a cohesive plan.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Creative Block (high capacity)",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm feeling very alert and aware, how can I channel this into something productive?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "High Alertness / Sensory Awareness",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm in a new environment, how can I adapt quickly and stay focused?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "New Environment / Adaptation",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm ready to set some ambitious long-term goals, how do I make them achievable?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Long-Term Goal Setting",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "How can I maintain this deep focus for a longer period?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Sustained Focus",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel capable and ready to tackle anything today.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Confidence / Self-Efficacy",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My evening routine could be more efficient, any tips?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Routine Optimization",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have a big presentation, how do I stay sharp under pressure?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Performance Pressure",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My mind is buzzing with ideas, how do I capture them effectively?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Idea Generation",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm a little bit restless and can't quite settle down.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Anxiety / Unease",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I need to do that boring paperwork, how can I make myself start?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Initiating Undesired Tasks",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My to-do list is huge, what should I tackle first?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Task Prioritization",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I keep getting interrupted, I can't get anything done.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Interruptions / Distractions",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just can't bring myself to care anymore, I feel numb.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Resignation / Apathy",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I barely slept last night and feel completely off.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Disrupted Sleep Cycle",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "This problem is too complex, my brain just shuts down.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Overwhelm from Complexity",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "That flickering light is really bothering me, I can't ignore it.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Persistent Sensory Discomfort",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel a meltdown coming on, everything is too much.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Meltdown / Shutdown (pre-emptive)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My days have no structure, I feel aimless.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Lack of Routine",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My head is full of chaotic thoughts, I can't sort anything.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Mental Clutter",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm feeling really peaceful right now, how do I make this last?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Relief / Calm (maintaining)",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I want to consistently incorporate more self-care into my week.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Consistent Self-Care",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I need to map out a long-term strategy for my career goals.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Strategic Planning",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "A new change is coming, how can I adapt smoothly and effectively?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Adapting to Change",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm starting to feel a bit swamped, nothing critical yet.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Overwhelm",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "I'm having trouble connecting these ideas, it's a bit fuzzy.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Mild Confusion",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "I know I should do it, but I'm just dragging my feet.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Resistance to Effort",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "The light's not quite right, it's subtly distracting me.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Mild Sensory Annoyance",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "I'm just completely indifferent to what's happening around me.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Apathy / Indifference",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "My mind feels empty, I need something to activate it.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Unstimulated",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I have free time but no idea what to fill it with.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Lack of Direction",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "My day feels so monotonous, I need a change.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Predictable Routine (boring)",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I have energy, but it's making me a bit antsy.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Restlessness",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "My ideas are flowing fast, I need to write them down quickly.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Rapid Thoughts (positive)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm really keen to dive into this new task now.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Eagerness to Start",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm really looking forward to X, can't wait for it to start.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Anticipation (positive)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I feel pretty content, neither high nor low, just... fine.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "General Contentment",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "My brain's just ticking over in the background, not actively engaged.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Background Processing",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I'm perfectly relaxed, just chilling out.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Relaxed State",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "My space feels so familiar and safe, just peaceful.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Familiar Environment (calming)",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I've got a good vibe going, feeling slightly charged.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Excitement",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm alert, but my attention is scattered across many things.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Alertness without Focus",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm trying to juggle a few things at once, feeling a bit stretched.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Multi-tasking (attempting)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "The energy here is good, slightly stimulating but manageable.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Moderately Stimulating Environment",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I feel a bit numb, like I can't quite access my emotions.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Numbness",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "There's a song stuck in my head, I can't get it out.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Minor Repetitive Thoughts",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "I keep mindlessly scrolling on my phone.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Low Impulse Control (mild)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "This quiet is starting to feel heavy, it's unsettling.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Uncomfortable Silence",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "I'm just feeling mellow, perfectly fine doing nothing.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mellow Contentment",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "My mind is just drifting, enjoying a good daydream.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Daydreaming",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I just feel like swaying gently, nothing strenuous.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Gentle Movement",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "The sound of the rain is perfectly soothing.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Natural Background Sound",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I'm buzzing with anticipation for the weekend.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Anticipatory Buzz",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "Ideas are coming fast, but they're all over the place.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Fast but Unstructured Thoughts",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I need to move my hands while I think, it helps me focus.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Fidgeting (productive)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "This new topic is really sparking my interest!",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "New, Interesting Input",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I feel like reaching out to someone, just a quick chat.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Social Craving",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "My brain feels ready to absorb new complex information.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Open to New Information",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm setting up my workspace to be really productive.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Prep for Productivity",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm a little impatient for things to get started.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Slight Impatience",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm really good at tuning out distractions when I want to.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Selective Attention (positive)",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards high"
+  },
+  {
+    "Sample_User_Query": "I'm just dabbling in my hobby, no pressure to perform.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Engaging in Hobby (low stakes)",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "Everything is just as it should be, comfortably predictable.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Predictable Comfort Zone",
+    "User_Cognitive_Energy_Levels": "Completely Bored/Neutral"
+  },
+  {
+    "Sample_User_Query": "I feel like I'm zoning out a bit, disconnected from what's happening.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Dissociation / Zoning Out",
+    "User_Cognitive_Energy_Levels": "Quasi Cognitive Energy leaning towards low"
+  },
+  {
+    "Sample_User_Query": "What's the point? I feel like nothing will ever change.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Despair / Hopelessness (mild)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just want to pull the covers over my head and disappear.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Avoidance of all input",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My mind is completely blank, I can't remember anything.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Memory Block",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Everything is too loud and too bright, I need to escape.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Overstimulation (general)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel a deep sadness, not just tired, but heavy.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Melancholy / Sadness",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I can't stop fidgeting, it's making me even more stressed.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Stimming (uncontrolled)",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm so scared to make a mistake, I can't do anything.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Paralyzed by Fear",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel worthless, like I don't deserve anything good.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Feeling Unworthy",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Everything feels out of my control, I'm just drifting.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Lack of Control",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just can't talk right now, words won't come out.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Non-verbal Shutdown",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have some ideas, but they're not quite clicking into place.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Mild Creative Block",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm so bored, I need something to occupy my hands or mind.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Boredom (action-seeking)",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm slipping on my routine, need some motivation to stick with it.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Routine Maintenance Challenge",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm finding it hard to switch from one task to another.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Task Switching Difficulty",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have a social event coming up, how do I manage my energy?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Social Energy Management",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just feel a low level of unease, can't pinpoint why.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "General Unease",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I really need to reply to that email, but I keep putting it off.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Mild Procrastination (specific task)",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm overthinking this small decision, it's taking too much time.",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Overthinking Minor Issues",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm not quite happy with how things are, but I don't know what to change.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Mild Dissatisfaction",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My workspace feels a bit cluttered, I need to optimize it for better focus.",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Environmental Optimization",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm in a problem-solving mode, how can I efficiently test solutions?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Rapid Problem-Solving",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel incredible, how can I capture this positive energy?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Euphoria / Intense Joy",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I want to push my skills to the next level, how do I achieve mastery?",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Skill Mastery",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I need to design a complex system, how do I ensure all parts integrate?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Systems Thinking",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm thriving in this fast-paced environment, how can I sustain it?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "High-Demand Environment (thriving)",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm incredibly curious about this topic, I want to learn everything.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Intense Curiosity",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I want to take the lead on this project and inspire my team.",
+    "User_Energy_States": "Behavioral State",
+    "User_Problem_Category": "Leadership / Guiding",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have many disparate ideas, how can I synthesize them into a breakthrough concept?",
+    "User_Energy_States": "Cognitive State",
+    "User_Problem_Category": "Creative Synthesis",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm in a high-pressure situation, but I need to maintain strategic calm.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Strategic Calm",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "How do I facilitate complex collaboration with diverse team members effectively?",
+    "User_Energy_States": "Situational",
+    "User_Problem_Category": "Complex Collaboration",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm struggling to get started on my to-do list. What's a good first step when everything feels equally important?",
+    "User_Energy_States": "Daily Living",
+    "User_Problem_Category": "Productivity / Focus",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "The noise and lights in this office are making me feel completely frazzled. How can I calm my nervous system right now?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Sensory Overload",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel like my partner isn't really listening to me sometimes. How can I express myself more clearly without getting frustrated?",
+    "User_Energy_States": "Relationships",
+    "User_Problem_Category": "Communication",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm so tired but my mind won't switch off at night. What are some wind-down routines that actually work?",
+    "User_Energy_States": "Health & Wellness",
+    "User_Problem_Category": "Sleep",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm completely burnt out and can't seem to recharge. What's the fastest way to get some energy back when I feel drained?",
+    "User_Energy_States": "Self-Care",
+    "User_Problem_Category": "Burnout / Exhaustion",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I just got a promotion, but I feel like I don't deserve it and everyone will find out I'm not good enough. How do I combat this feeling?",
+    "User_Energy_States": "Career & Ambition",
+    "User_Problem_Category": "Imposter Syndrome",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "After social events, I feel completely drained and need days to recover. Is this normal, and how can I manage social energy better?",
+    "User_Energy_States": "Social Interactions",
+    "User_Problem_Category": "Masking / Social Fatigue",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I go from calm to intensely angry or sad in a snap. How can I better manage these sudden, overwhelming mood swings?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Emotional Dysregulation",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My period cramps are making me feel miserable and irritable. Are there any natural remedies or stretches to ease the pain and mood?",
+    "User_Energy_States": "Health & Wellness",
+    "User_Problem_Category": "Period Pain / PMS",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I have so many ideas but never enough time to execute them. How can I plan my day more effectively?",
+    "User_Energy_States": "Daily Living",
+    "User_Problem_Category": "Time Management",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel completely uninspired lately. How can I reignite my creativity and find new ideas?",
+    "User_Energy_States": "Creativity",
+    "User_Problem_Category": "Blocks / Inspiration",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm struggling with how I feel about my body today. What are some quick ways to practice self-compassion?",
+    "User_Energy_States": "Self-Care",
+    "User_Problem_Category": "Body Image",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Someone just criticized my work, and I feel physically ill and devastated. How do I cope with such intense emotional reactions to criticism?",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Rejection Sensitivity",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I notice my mood drastically changes around ovulation and before my period. How can I track and better manage these hormonal shifts?",
+    "User_Energy_States": "Health & Wellness",
+    "User_Problem_Category": "Hormonal Fluctuations",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I struggle to say 'no' without feeling guilty. How can I set healthier boundaries in my relationships?",
+    "User_Energy_States": "Relationships",
+    "User_Problem_Category": "Setting Boundaries",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm feeling stuck in my current job and thinking about a career change, but it feels daunting. Where do I even start?",
+    "User_Energy_States": "Career & Ambition",
+    "User_Problem_Category": "Career Change",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I can't stop replaying conversations in my head and worrying about what I said. How can I break this cycle of overthinking?",
+    "User_Energy_States": "Daily Living",
+    "User_Problem_Category": "Overthinking / Rumination",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Life feels a bit dull and overwhelming lately. What are some small, easy ways to bring more joy into my daily routine?",
+    "User_Energy_States": "Self-Care",
+    "User_Problem_Category": "Finding Joy",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I know I should eat better and exercise, but getting myself to actually do it feels impossible. Any tips for building healthy habits with low motivation?",
+    "User_Energy_States": "Health & Wellness",
+    "User_Problem_Category": "Executive Function (Diet/Exercise)",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel like my brain is just static, and I can't process anything. I need to disengage but don't know how without completely checking out.",
+    "User_Energy_States": "Emotional State",
+    "User_Problem_Category": "Meltdown / Shutdown (Internal)",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My sex drive has completely dropped lately, and I'm worried. What could be causing it, and how can I get it back?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Libido / Desire",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I've been experiencing pain during intercourse, and it's making me anxious about intimacy. What could be going on, and should I see a doctor?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Pain During Sex",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I struggle to orgasm during sex, even though I feel aroused. Are there ways to improve my ability to climax?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Orgasm / Pleasure",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm looking for a new birth control method that won't mess with my mood or hormones. What are some non-hormonal options?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Contraception",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel really self-conscious about my body during sex. How can I feel more confident and present with my partner?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Body Image & Sex",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "It's hard for me to talk about my sexual needs and desires with my partner. How can I start these conversations?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Communication & Sex",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm a survivor of sexual trauma, and it impacts my ability to feel safe and enjoy intimacy. What resources are available for healing?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Sexual Trauma / Healing",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My desire changes so much throughout my menstrual cycle. How can I better understand and work with my natural rhythm?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Menstrual Cycle & Sex",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm experiencing vaginal dryness, which makes sex uncomfortable. What are some effective remedies or solutions?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Vaginal Dryness",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm worried I might have an STI after a recent encounter. What are the common symptoms, and where can I get tested discreetly?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "STI / STD Concerns",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "After having a baby, sex feels completely different and sometimes painful. How long does it take to feel \"normal\" again, and what can help?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Postpartum Sex",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "My sensory sensitivities make certain sexual acts overwhelming or uncomfortable. How can I communicate this to my partner and find what works for me?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Neurodiversity & Sex (Sensory)",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I feel really insecure about my performance or attractiveness during sex. How can I build my sexual confidence?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Low Confidence in Bed",
+    "User_Cognitive_Energy_Levels": "MediumMedium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm experiencing significant mood swings and anxiety from my birth control. Are these normal side effects, and should I switch?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Hormonal Birth Control Side Effects",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I'm curious about exploring new sexual fantasies or kinks but don't know how to bring it up with my partner. Any tips for honest communication?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Sexual Fantasies / Exploration",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "Is it safe to have sex during pregnancy? Are there any positions or precautions I should be aware of?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Pregnancy & Sex",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I think I might have pelvic floor dysfunction affecting my sexual health. What are the signs, and who should I see for help?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Pelvic Floor Health",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "As I get older, my sexual experiences are changing. How can I continue to have a fulfilling sex life through perimenopause and beyond?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Ageing & Sex",
+    "User_Cognitive_Energy_Levels": "Medium Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I want to make sure I'm always practicing enthusiastic consent, both giving and receiving. What does truly clear consent look like?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Consent",
+    "User_Cognitive_Energy_Levels": "Low Cognitive Energy"
+  },
+  {
+    "Sample_User_Query": "I started a new medication (e.g., antidepressants) and my libido has plummeted. Is this a common side effect, and what can I do about it?",
+    "User_Energy_States": "Sexual Health",
+    "User_Problem_Category": "Medication & Libido",
+    "User_Cognitive_Energy_Levels": "High Cognitive Energy"
+  }
+]
