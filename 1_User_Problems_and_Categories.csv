@@ -1,0 +1,166 @@
+Sample_User_Query,User_Energy_States,User_Problem_Category,User_Cognitive_Energy_Levels
+I feel so overwhelmed and can't focus.,Emotional State,Anxiety / Stress,Medium Cognitive Energy
+I have a big project due but I can't start.,Cognitive State,Procrastination,Medium Cognitive Energy
+I had a fight with my partner and feel awful.,Situational,Conflict,Medium Cognitive Energy
+I just feel sad and have no energy.,Emotional State,Low Mood,Low Cognitive Energy
+My mind is racing and I can't focus on one thing.,Cognitive State,Lack of Focus,Medium Cognitive Energy
+"My brain feels like mush, I can't think at all.",Emotional State,Overwhelm / Burnout,Low Cognitive Energy
+"I'm just staring at my screen, nothing is getting done",Behavioral State,Task Paralysis,Low Cognitive Energy
+"I don't even care what to do, just tell me.",Cognitive State,Decision Fatigue / Apathy,Low Cognitive Energy
+"My head feels fuzzy and overstimulated, I need quiet.",Situational,Sensory Overload (internal),Low Cognitive Energy
+"Everything is annoying me, I just want to be left alone",Emotional State,Irritability / Frustration (low tolerance),Low Cognitive Energy
+"I haven't even eaten or gotten dressed today, I'm stuck",Behavioral State,Basic Self-Care Lapse,Low Cognitive Energy
+Even making a cup of tea feels like too much effort.,Cognitive State,Simple Task Overwhelm,Low Cognitive Energy
+"I just feel... flat. No emotions, no motivation.",Emotional State,Listlessness,Low Cognitive Energy
+"It's a free day and I don't know what to do, feeling lost.",Situational,Unstructured Time Overwhelm,Low Cognitive Energy
+I'm just going to go back to sleep and ignore everything.,Behavioral State,Avoidance (extreme),Low Cognitive Energy
+"I keep getting distracted from my work, jumping between tabs.",Cognitive State,Mild Procrastination,Medium Cognitive Energy
+I'm just feeling generally stressed about my to-do list.,Emotional State,General Stress / Annoyance,Medium Cognitive Energy
+"My morning routine feels off, I need to get back on track.",Behavioral State,Routine Adjustment,Medium Cognitive Energy
+"I need to pick a new project to start, but there are too many options.",Cognitive State,Minor Decision Making,Medium Cognitive Energy
+"This background noise is a bit annoying, hard to concentrate.",Situational,Mild Sensory Discomfort,Medium Cognitive Energy
+"I just don't feel like doing anything productive, but I should.",Emotional State,Lack of Motivation,Medium Cognitive Energy
+I need to tell my friend something important but I'm nervous how they'll react.,Behavioral State,Communication Challenges,Medium Cognitive Energy
+"I'm researching, but there's just so much information, I feel stuck.",Cognitive State,Information Overload,Medium Cognitive Energy
+"I'm so bored, I need something to do but nothing sounds good.",Emotional State,Boredom,Medium Cognitive Energy
+I have a work event tonight and I'm already feeling tired thinking about it.,Situational,Pre-Social Event Jitters,Medium Cognitive Energy
+"I'm hyperfocused on this, how do I make sure I don't lose track of time?",Cognitive State,Intense Focus / Hyperfocus,High Cognitive Energy
+"I want to maximize my productivity today, what's the best way?",Behavioral State,Optimizing Productivity,High Cognitive Energy
+"I'm so excited about this project, how can I sustain this energy?",Emotional State,Highly Motivated / Excited,High Cognitive Energy
+"I have a really complex problem at work, how can I approach it systematically?",Cognitive State,Complex Problem Solving,High Cognitive Energy
+"I feel great today, I want to connect with friends more effectively.",Situational,Social Engagement (desired),High Cognitive Energy
+"I'm ready to learn a new complex skill, where should I start?",Behavioral State,Skill Development,High Cognitive Energy
+My mind is buzzing with ideas but I can't organize them into a cohesive plan.,Cognitive State,Creative Block (high capacity),High Cognitive Energy
+"I'm feeling very alert and aware, how can I channel this into something productive?",Emotional State,High Alertness / Sensory Awareness,High Cognitive Energy
+"I'm in a new environment, how can I adapt quickly and stay focused?",Situational,New Environment / Adaptation,High Cognitive Energy
+"I'm ready to set some ambitious long-term goals, how do I make them achievable?",Behavioral State,Long-Term Goal Setting,High Cognitive Energy
+How can I maintain this deep focus for a longer period?,Cognitive State,Sustained Focus,High Cognitive Energy
+I feel capable and ready to tackle anything today.,Emotional State,Confidence / Self-Efficacy,High Cognitive Energy
+"My evening routine could be more efficient, any tips?",Behavioral State,Routine Optimization,High Cognitive Energy
+"I have a big presentation, how do I stay sharp under pressure?",Situational,Performance Pressure,High Cognitive Energy
+"My mind is buzzing with ideas, how do I capture them effectively?",Cognitive State,Idea Generation,High Cognitive Energy
+I'm a little bit restless and can't quite settle down.,Emotional State,Mild Anxiety / Unease,Medium Cognitive Energy
+"I need to do that boring paperwork, how can I make myself start?",Behavioral State,Initiating Undesired Tasks,Medium Cognitive Energy
+"My to-do list is huge, what should I tackle first?",Cognitive State,Task Prioritization,Medium Cognitive Energy
+"I keep getting interrupted, I can't get anything done.",Situational,Interruptions / Distractions,Medium Cognitive Energy
+"I just can't bring myself to care anymore, I feel numb.",Emotional State,Resignation / Apathy,Low Cognitive Energy
+I barely slept last night and feel completely off.,Behavioral State,Disrupted Sleep Cycle,Low Cognitive Energy
+"This problem is too complex, my brain just shuts down.",Cognitive State,Overwhelm from Complexity,Low Cognitive Energy
+"That flickering light is really bothering me, I can't ignore it.",Situational,Persistent Sensory Discomfort,Low Cognitive Energy
+"I feel a meltdown coming on, everything is too much.",Emotional State,Meltdown / Shutdown (pre-emptive),Low Cognitive Energy
+"My days have no structure, I feel aimless.",Behavioral State,Lack of Routine,Low Cognitive Energy
+"My head is full of chaotic thoughts, I can't sort anything.",Cognitive State,Mental Clutter,Low Cognitive Energy
+"I'm feeling really peaceful right now, how do I make this last?",Emotional State,Relief / Calm (maintaining),High Cognitive Energy
+I want to consistently incorporate more self-care into my week.,Behavioral State,Consistent Self-Care,High Cognitive Energy
+I need to map out a long-term strategy for my career goals.,Cognitive State,Strategic Planning,High Cognitive Energy
+"A new change is coming, how can I adapt smoothly and effectively?",Situational,Adapting to Change,High Cognitive Energy
+"I'm starting to feel a bit swamped, nothing critical yet.",Emotional State,Mild Overwhelm,Quasi Cognitive Energy leaning towards low
+"I'm having trouble connecting these ideas, it's a bit fuzzy.",Cognitive State,Mild Confusion,Quasi Cognitive Energy leaning towards low
+"I know I should do it, but I'm just dragging my feet.",Behavioral State,Resistance to Effort,Quasi Cognitive Energy leaning towards low
+"The light's not quite right, it's subtly distracting me.",Situational,Mild Sensory Annoyance,Quasi Cognitive Energy leaning towards low
+I'm just completely indifferent to what's happening around me.,Emotional State,Apathy / Indifference,Completely Bored/Neutral
+"My mind feels empty, I need something to activate it.",Cognitive State,Unstimulated,Completely Bored/Neutral
+I have free time but no idea what to fill it with.,Behavioral State,Lack of Direction,Completely Bored/Neutral
+"My day feels so monotonous, I need a change.",Situational,Predictable Routine (boring),Completely Bored/Neutral
+"I have energy, but it's making me a bit antsy.",Emotional State,Mild Restlessness,Quasi Cognitive Energy leaning towards high
+"My ideas are flowing fast, I need to write them down quickly.",Cognitive State,Rapid Thoughts (positive),Quasi Cognitive Energy leaning towards high
+I'm really keen to dive into this new task now.,Behavioral State,Eagerness to Start,Quasi Cognitive Energy leaning towards high
+"I'm really looking forward to X, can't wait for it to start.",Situational,Anticipation (positive),Quasi Cognitive Energy leaning towards high
+"I feel pretty content, neither high nor low, just... fine.",Emotional State,General Contentment,Completely Bored/Neutral
+"My brain's just ticking over in the background, not actively engaged.",Cognitive State,Background Processing,Completely Bored/Neutral
+"I'm perfectly relaxed, just chilling out.",Behavioral State,Relaxed State,Completely Bored/Neutral
+"My space feels so familiar and safe, just peaceful.",Situational,Familiar Environment (calming),Completely Bored/Neutral
+"I've got a good vibe going, feeling slightly charged.",Emotional State,Mild Excitement,Quasi Cognitive Energy leaning towards high
+"I'm alert, but my attention is scattered across many things.",Cognitive State,Alertness without Focus,Quasi Cognitive Energy leaning towards high
+"I'm trying to juggle a few things at once, feeling a bit stretched.",Behavioral State,Multi-tasking (attempting),Quasi Cognitive Energy leaning towards high
+"The energy here is good, slightly stimulating but manageable.",Situational,Moderately Stimulating Environment,Quasi Cognitive Energy leaning towards high
+"I feel a bit numb, like I can't quite access my emotions.",Emotional State,Mild Numbness,Quasi Cognitive Energy leaning towards low
+"There's a song stuck in my head, I can't get it out.",Cognitive State,Minor Repetitive Thoughts,Quasi Cognitive Energy leaning towards low
+I keep mindlessly scrolling on my phone.,Behavioral State,Low Impulse Control (mild),Quasi Cognitive Energy leaning towards low
+"This quiet is starting to feel heavy, it's unsettling.",Situational,Uncomfortable Silence,Quasi Cognitive Energy leaning towards low
+"I'm just feeling mellow, perfectly fine doing nothing.",Emotional State,Mellow Contentment,Completely Bored/Neutral
+"My mind is just drifting, enjoying a good daydream.",Cognitive State,Daydreaming,Completely Bored/Neutral
+"I just feel like swaying gently, nothing strenuous.",Behavioral State,Gentle Movement,Completely Bored/Neutral
+The sound of the rain is perfectly soothing.,Situational,Natural Background Sound,Completely Bored/Neutral
+I'm buzzing with anticipation for the weekend.,Emotional State,Anticipatory Buzz,Quasi Cognitive Energy leaning towards high
+"Ideas are coming fast, but they're all over the place.",Cognitive State,Fast but Unstructured Thoughts,Quasi Cognitive Energy leaning towards high
+"I need to move my hands while I think, it helps me focus.",Behavioral State,Fidgeting (productive),Quasi Cognitive Energy leaning towards high
+This new topic is really sparking my interest!,Situational,"New, Interesting Input",Quasi Cognitive Energy leaning towards high
+"I feel like reaching out to someone, just a quick chat.",Emotional State,Mild Social Craving,Quasi Cognitive Energy leaning towards high
+My brain feels ready to absorb new complex information.,Cognitive State,Open to New Information,Quasi Cognitive Energy leaning towards high
+I'm setting up my workspace to be really productive.,Behavioral State,Prep for Productivity,Quasi Cognitive Energy leaning towards high
+I'm a little impatient for things to get started.,Emotional State,Slight Impatience,Quasi Cognitive Energy leaning towards high
+I'm really good at tuning out distractions when I want to.,Cognitive State,Selective Attention (positive),Quasi Cognitive Energy leaning towards high
+"I'm just dabbling in my hobby, no pressure to perform.",Behavioral State,Engaging in Hobby (low stakes),Completely Bored/Neutral
+"Everything is just as it should be, comfortably predictable.",Situational,Predictable Comfort Zone,Completely Bored/Neutral
+"I feel like I'm zoning out a bit, disconnected from what's happening.",Emotional State,Mild Dissociation / Zoning Out,Quasi Cognitive Energy leaning towards low
+What's the point? I feel like nothing will ever change.,Emotional State,Despair / Hopelessness (mild),Low Cognitive Energy
+I just want to pull the covers over my head and disappear.,Behavioral State,Avoidance of all input,Low Cognitive Energy
+"My mind is completely blank, I can't remember anything.",Cognitive State,Memory Block,Low Cognitive Energy
+"Everything is too loud and too bright, I need to escape.",Situational,Overstimulation (general),Low Cognitive Energy
+"I feel a deep sadness, not just tired, but heavy.",Emotional State,Melancholy / Sadness,Low Cognitive Energy
+"I can't stop fidgeting, it's making me even more stressed.",Behavioral State,Stimming (uncontrolled),Low Cognitive Energy
+"I'm so scared to make a mistake, I can't do anything.",Cognitive State,Paralyzed by Fear,Low Cognitive Energy
+"I feel worthless, like I don't deserve anything good.",Emotional State,Feeling Unworthy,Low Cognitive Energy
+"Everything feels out of my control, I'm just drifting.",Situational,Lack of Control,Low Cognitive Energy
+"I just can't talk right now, words won't come out.",Behavioral State,Non-verbal Shutdown,Low Cognitive Energy
+"I have some ideas, but they're not quite clicking into place.",Cognitive State,Mild Creative Block,Medium Cognitive Energy
+"I'm so bored, I need something to occupy my hands or mind.",Emotional State,Boredom (action-seeking),Medium Cognitive Energy
+"I'm slipping on my routine, need some motivation to stick with it.",Behavioral State,Routine Maintenance Challenge,Medium Cognitive Energy
+I'm finding it hard to switch from one task to another.,Cognitive State,Task Switching Difficulty,Medium Cognitive Energy
+"I have a social event coming up, how do I manage my energy?",Situational,Social Energy Management,Medium Cognitive Energy
+"I just feel a low level of unease, can't pinpoint why.",Emotional State,General Unease,Medium Cognitive Energy
+"I really need to reply to that email, but I keep putting it off.",Behavioral State,Mild Procrastination (specific task),Medium Cognitive Energy
+"I'm overthinking this small decision, it's taking too much time.",Cognitive State,Overthinking Minor Issues,Medium Cognitive Energy
+"I'm not quite happy with how things are, but I don't know what to change.",Emotional State,Mild Dissatisfaction,Medium Cognitive Energy
+"My workspace feels a bit cluttered, I need to optimize it for better focus.",Situational,Environmental Optimization,Medium Cognitive Energy
+"I'm in a problem-solving mode, how can I efficiently test solutions?",Cognitive State,Rapid Problem-Solving,High Cognitive Energy
+"I feel incredible, how can I capture this positive energy?",Emotional State,Euphoria / Intense Joy,High Cognitive Energy
+"I want to push my skills to the next level, how do I achieve mastery?",Behavioral State,Skill Mastery,High Cognitive Energy
+"I need to design a complex system, how do I ensure all parts integrate?",Cognitive State,Systems Thinking,High Cognitive Energy
+"I'm thriving in this fast-paced environment, how can I sustain it?",Situational,High-Demand Environment (thriving),High Cognitive Energy
+"I'm incredibly curious about this topic, I want to learn everything.",Emotional State,Intense Curiosity,High Cognitive Energy
+I want to take the lead on this project and inspire my team.,Behavioral State,Leadership / Guiding,High Cognitive Energy
+"I have many disparate ideas, how can I synthesize them into a breakthrough concept?",Cognitive State,Creative Synthesis,High Cognitive Energy
+"I'm in a high-pressure situation, but I need to maintain strategic calm.",Emotional State,Strategic Calm,High Cognitive Energy
+How do I facilitate complex collaboration with diverse team members effectively?,Situational,Complex Collaboration,High Cognitive Energy
+I'm struggling to get started on my to-do list. What's a good first step when everything feels equally important?,Daily Living,Productivity / Focus,Medium Cognitive Energy
+The noise and lights in this office are making me feel completely frazzled. How can I calm my nervous system right now?,Emotional State,Sensory Overload,High Cognitive Energy
+I feel like my partner isn't really listening to me sometimes. How can I express myself more clearly without getting frustrated?,Relationships,Communication,Medium Cognitive Energy
+I'm so tired but my mind won't switch off at night. What are some wind-down routines that actually work?,Health & Wellness,Sleep,Medium Cognitive Energy
+I'm completely burnt out and can't seem to recharge. What's the fastest way to get some energy back when I feel drained?,Self-Care,Burnout / Exhaustion,High Cognitive Energy
+"I just got a promotion, but I feel like I don't deserve it and everyone will find out I'm not good enough. How do I combat this feeling?",Career & Ambition,Imposter Syndrome,Medium Cognitive Energy
+"After social events, I feel completely drained and need days to recover. Is this normal, and how can I manage social energy better?",Social Interactions,Masking / Social Fatigue,Medium Cognitive Energy
+"I go from calm to intensely angry or sad in a snap. How can I better manage these sudden, overwhelming mood swings?",Emotional State,Emotional Dysregulation,High Cognitive Energy
+My period cramps are making me feel miserable and irritable. Are there any natural remedies or stretches to ease the pain and mood?,Health & Wellness,Period Pain / PMS,Medium Cognitive Energy
+I have so many ideas but never enough time to execute them. How can I plan my day more effectively?,Daily Living,Time Management,Low Cognitive Energy
+I feel completely uninspired lately. How can I reignite my creativity and find new ideas?,Creativity,Blocks / Inspiration,Low Cognitive Energy
+I'm struggling with how I feel about my body today. What are some quick ways to practice self-compassion?,Self-Care,Body Image,Medium Cognitive Energy
+"Someone just criticized my work, and I feel physically ill and devastated. How do I cope with such intense emotional reactions to criticism?",Emotional State,Rejection Sensitivity,High Cognitive Energy
+I notice my mood drastically changes around ovulation and before my period. How can I track and better manage these hormonal shifts?,Health & Wellness,Hormonal Fluctuations,Medium Cognitive Energy
+I struggle to say 'no' without feeling guilty. How can I set healthier boundaries in my relationships?,Relationships,Setting Boundaries,Low Cognitive Energy
+"I'm feeling stuck in my current job and thinking about a career change, but it feels daunting. Where do I even start?",Career & Ambition,Career Change,Low Cognitive Energy
+I can't stop replaying conversations in my head and worrying about what I said. How can I break this cycle of overthinking?,Daily Living,Overthinking / Rumination,Medium Cognitive Energy
+"Life feels a bit dull and overwhelming lately. What are some small, easy ways to bring more joy into my daily routine?",Self-Care,Finding Joy,Low Cognitive Energy
+"I know I should eat better and exercise, but getting myself to actually do it feels impossible. Any tips for building healthy habits with low motivation?",Health & Wellness,Executive Function (Diet/Exercise),Medium Cognitive Energy
+"I feel like my brain is just static, and I can't process anything. I need to disengage but don't know how without completely checking out.",Emotional State,Meltdown / Shutdown (Internal),High Cognitive Energy
+"My sex drive has completely dropped lately, and I'm worried. What could be causing it, and how can I get it back?",Sexual Health,Libido / Desire,Medium Cognitive Energy
+"I've been experiencing pain during intercourse, and it's making me anxious about intimacy. What could be going on, and should I see a doctor?",Sexual Health,Pain During Sex,High Cognitive Energy
+"I struggle to orgasm during sex, even though I feel aroused. Are there ways to improve my ability to climax?",Sexual Health,Orgasm / Pleasure,Medium Cognitive Energy
+I'm looking for a new birth control method that won't mess with my mood or hormones. What are some non-hormonal options?,Sexual Health,Contraception,Low Cognitive Energy
+I feel really self-conscious about my body during sex. How can I feel more confident and present with my partner?,Sexual Health,Body Image & Sex,Medium Cognitive Energy
+It's hard for me to talk about my sexual needs and desires with my partner. How can I start these conversations?,Sexual Health,Communication & Sex,Medium Cognitive Energy
+"I'm a survivor of sexual trauma, and it impacts my ability to feel safe and enjoy intimacy. What resources are available for healing?",Sexual Health,Sexual Trauma / Healing,High Cognitive Energy
+My desire changes so much throughout my menstrual cycle. How can I better understand and work with my natural rhythm?,Sexual Health,Menstrual Cycle & Sex,Medium Cognitive Energy
+"I'm experiencing vaginal dryness, which makes sex uncomfortable. What are some effective remedies or solutions?",Sexual Health,Vaginal Dryness,Medium Cognitive Energy
+"I'm worried I might have an STI after a recent encounter. What are the common symptoms, and where can I get tested discreetly?",Sexual Health,STI / STD Concerns,Low Cognitive Energy
+"After having a baby, sex feels completely different and sometimes painful. How long does it take to feel ""normal"" again, and what can help?",Sexual Health,Postpartum Sex,Medium Cognitive Energy
+My sensory sensitivities make certain sexual acts overwhelming or uncomfortable. How can I communicate this to my partner and find what works for me?,Sexual Health,Neurodiversity & Sex (Sensory),Medium Cognitive Energy
+I feel really insecure about my performance or attractiveness during sex. How can I build my sexual confidence?,Sexual Health,Low Confidence in Bed,MediumMedium Cognitive Energy
+"I'm experiencing significant mood swings and anxiety from my birth control. Are these normal side effects, and should I switch?",Sexual Health,Hormonal Birth Control Side Effects,High Cognitive Energy
+I'm curious about exploring new sexual fantasies or kinks but don't know how to bring it up with my partner. Any tips for honest communication?,Sexual Health,Sexual Fantasies / Exploration,Low Cognitive Energy
+Is it safe to have sex during pregnancy? Are there any positions or precautions I should be aware of?,Sexual Health,Pregnancy & Sex,Low Cognitive Energy
+"I think I might have pelvic floor dysfunction affecting my sexual health. What are the signs, and who should I see for help?",Sexual Health,Pelvic Floor Health,Medium Cognitive Energy
+"As I get older, my sexual experiences are changing. How can I continue to have a fulfilling sex life through perimenopause and beyond?",Sexual Health,Ageing & Sex,Medium Cognitive Energy
+"I want to make sure I'm always practicing enthusiastic consent, both giving and receiving. What does truly clear consent look like?",Sexual Health,Consent,Low Cognitive Energy
+"I started a new medication (e.g., antidepressants) and my libido has plummeted. Is this a common side effect, and what can I do about it?",Sexual Health,Medication & Libido,High Cognitive Energy
